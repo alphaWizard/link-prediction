@@ -1,0 +1,3298 @@
+15	
+20	andy cohen,bakery,bar,barbeque,bbq,bistro,boutique,bravo,bravoandy,celebrity sighting,coffee,cupcake,dessert,desserts,douchebag,douchebags,foodie,foody,french cuisine,gallery art,gossip girl,gossipgirl,home,manhattan,models,people hot spot,photo booth,restaurant,socalite,socialite,steak frites,theater,top chef,tourists,trendy,victoria's secret - bombshell,vs hotspot,west village,wine,zagat rated
+25	colombian,cupcake,fish tacos,grilled corn,long wait,pork,rice and beans,sweet plantains,tinituan ma lala,trendy
+26	brunch,happy hour,irish,pub
+36	french,soho,zagat-rated,zagats
+39	byob
+40	+ jazz club,good food and jazz
+42	bar,beer,brunch,burger,cozy,dinner,group,happy hour,lunch,nice waitress,salad,sandwiches,sports,steak,tavern
+46	bakery,bravo,cupcake,dessert,diner,frozen hot chocolate,frozen yogurt,gossip girl,ice cream,socialite,top chef,tourists,upper east side
+47	bagels,cafe,coffee,desserts,green tea cookies,irving farm,local food,outdoor seating,tea,wifi
+52	gossip girl
+59	french restaurant,outdoor seating,wine bar
+77	american,brunch,dinner,happy hour,jazz,live jazz,live music,pre-fixe,restaurant,west village
+78	japanese food,sushi
+83	lunch,salad
+86	bravo,michelin star,michelin-rated,nymag,restaurant,timeoutny,where to eat 2011,wylie dufresne,zagat-rated
+88	desserts,ginger iced tea,roast pork sandwich,salads,strawberry lemonade,tarts
+98	momo,not malaysian,tibet,tibetan
+99	french diner,rimbaud,steak au poivre
+102	brooklyn,food,italian
+105	moroccan
+114	rustic,taavo somer
+115	bingo,fiesta lights,mexican,tequila
+123	br guest hospitality,brunch,live jazz music,online reservations @ www.bluewatergrillnyc.com,outdoor seating,private room,raw bar,seafood,sushi,union square,www.brguesthospitality.com
+133	bbq,bbq ribs,buffalo wings,delivery,fried chicken joint
+138	extensive wine list,food,italian,late night,panini,wine
+140	restaurant,sandwiches
+141	best in nyc,cash only
+142	deli,sandwich,sandwiches
+148	chateaunef-du-pape,hiphostessnyc top pick,michelin star
+154	fried chicken,home cookin',soul food
+155	japanese,sushi
+161	margaritas,zagat
+164	brew pub,brew tours,pub crawl,restaurant,scenic view,wheelchair access,wifi
+167	
+172	barbecue,barbeque in times square,bbq,fries,margaritas,tourist,virgil,zagat-rated
+177	brunch,cocktails,dinner,foodie,unlimited drinks
+180	boston bar,brunch,new england,patriots,red sox,shittynachos,sports
+186	bar,burgers,grilled cheese,open mic,outside dining,wings
+189	cake doughnuts,chai,chocolate blackout,coffee,creme brulee,decaf coffee,dog creme,donuts,tres leche,valrhona chocolate
+190	
+192	annoying burp,bart,bbq,beer,buck hunter,college,pbr,pool table,slutty theater girls,tlc summer
+199	breakfast,brunch,cash only,cranky,cursing,don't be an asshole,don't get kicked out,eclectic,food,kenny shopsin,long lines,lunch,no cell phones,no copying someone else's order,no parties larger than four,quirky
+200	bar,burger,crayons,happy hour,manhattan,restaurant,tribeca
+204	mexican
+205	askmen,beer,bravo,fl®πgen flaggen!,frat boys,german,gluten free,oktoberfest,outdoor seating,timeoutny,top chef,weihenstephan
+209	sushi
+210	pasta
+212	italian restaurant
+217	
+222	brunch,delivery \/ takeout available
+224	
+239	beer,bison burger,brewpub,burgers,cheese steak,chili,fries,happy hour,sliders,summer ale was lovely even in winter
+243	empanadas,gazpacho
+254	frat boys,gossip girl,socialite,socialities
+255	beer,food,french,moroccan,outdoorseating
+262	all you can eat mussels,brunch,b®¶arnaise sauce,french,prix fixe,sunset menu
+263	almond croissants,bakery,cafe,coffee,coffee shop
+271	garden,great food and service,outdoor space,puma social hot spot
+278	baklava,falafel,hummus,lentil soup,schwarma,shwarma,west village
+284	 dinner, ellen degeneres, late night, lunch, paula dean, snack, zagat rated,cheapism,cheapskate,hot dogs,recession special,smoothies,upper west side
+291	batali,mario batali,showtime network
+307	
+308	cocktails,private events,special occasion,steak,steakhouse
+309	dessert,icecream
+313	catering,mangia,midtown
+315	choice eats,enchiladas,guacamole,margaritas,mexican,socialite,spicy,tacos,village voice,village voice choice eats,voicestreet
+316	br guest hospitality,broadway,delivery,dumplings,kids cooking classes,pan-asian,post-theater,pre theater,pre-theater,rice,sake,sushi,times square
+317	burgers
+318	not egg rolls,pho,spring rolls,summer rolls,vietnamese food
+328	burgers,egg cream,paul's palace
+332	alcohol,brunch,coffee,home fries,hot toddy,mediterranean food,omelette,outdoor dining,steak & eggs
+337	chinatown,chinese,chinese food,late night food,lo mein,wonton soup
+339	delivery,margarita's,mexican,salsa,vegetarian-friendly
+349	kebab,lahmajun
+355	bravoandy,margaritas,mexican,social dining,tacos,top chef,zagat-rated
+356	br guest hospitality,brunch,chocolate bag,museum of natural history,online reservations @ www.isabllas.com,outdoor seating,upper west side,www.brguesthospitality.com,zagat,zagat rated
+358	jazz, live, 1940's, speakeasy, lounge, dark, cool, hotel, bar
+359	
+360	bakery,brownies,cakes,coffee,cupcake,cupcakes,dessert,desserts,pudding,sex in the city,tourists,zagat-rated
+362	bar,steakhouse,zagat-rated
+364	
+370	a-list,bar,beer,italian,wine
+371	clued,good_mark,izakaya,j-punks,japanese,sake
+377	
+381	colonial,historical,old timey,shopping 28 campos-rj
+382	359 1st ave not 358,bagel,cafe,coffee
+389	bakery,coffee,ginger honey iced tea
+390	 dinner, fish, meatloaf, paula dean, vegan, vegetarian,american home cooking,breakfast,lunch,new york,the real l word,zagat-rated
+395	beer,burgers,mac 'n cheese,salads,sandwiches,wine
+396	burgers,pizza
+404	steak
+408	ask men,barbeque,bbq,bon appetit mag,bourbon,bravo,brooklyn,buroughs,cnn,cnn world cup,douchebag,douchebags,foodie,garment district,gossipgirl,hala hala,lobster,magazine,manhattan,mutton,new york magazine,old stuff,outdoor,outdoors,pipes,pizza,salmon,scotch,sport bar,steak,steak tartare,steakhouse,super fan,time out-new york,top chef,world cup,wsj,wsj luch box,zagat-rated
+410	
+415	animatronic robots,family friendly,gothic,horror show,victoriana
+417	burritos,margaritas,mexican,mexican food,tacos,tourists
+419	brunch,opentable
+422	balthazar bread,bistro,french
+423	burgers,classic
+424	burritos,chips,salsa
+434	beer,deli,sandwiches,smokes,snacks,soda
+442	
+446	fish,restaurant,seafood
+447	bakery,best coffee,best dessert and best space in nyc,brunch,cake,cash only,cheese cake,coffee,dessert,food,movie venue,restaurant,you've got mail!
+448	
+449	brooklyn,burgers,cupcakes,diner,giant muffins and coockies,great staff,hipsters,late night,milkshakes,munchies,puma social hotspot,specials
+452	brunch,ceviche,cuban,hot bartender,latin,mojitos,sangria,taco cart,tapas,ty ku
+457	brunch,diner,food
+461	bastille day
+466	
+468	back patio,thai food
+470	italian,pasta,wine
+471	beer,italian,outdoor seating,pizza
+472	bar,margaritas,patio
+473	burgers,meatloaf,older crowd
+474	bar,bistro
+476	bar,brazilian,coffee,coffee shop,diner,douchebag,manhattan,patio,socialite,union square
+478	great bartenders!,i love to eat at the bar--tom valenti is a genius,perfect martinis and gibsons
+480	best thai food outside of thailand,cash only,garden,restaurant,soup,thai,vegetarian friendly
+482	brunch,celebrity chef,cocktail list,creme brulee,frites,late night,outdoors seating,steak
+486	food,italian,pasta
+494	bowling alley,dog run,fried chicken,gallery,karaoke bar,play ground,record shop,ski area,vegetarian\/vegan
+497	bar,coffee,food,laptop,snacks,wifi,wine
+499	cab drivers,cheap,delicious,pakistani,recommended,saag aloo,samosas,soho
+504	chips,mango margarita,margaritas,mexican,salsa,tex mex
+507	cocktail
+512	delicious
+514	brunch,pizza
+518	brunch,dinner,gabrielle hamilton,lunch,prune juice,radishes,steak
+523	beer,british,chips,credit card accepted,fish,fish and chips,fried mars bars,good_mark,seafood,standing room
+526	a quest for the best burger, best burgers in nyc, dmanburger,brunch
+528	brooklyn,desserts,hipsters,pizza,pizzeria,tasty custom pizza,tom hanks,trendy,vegan,vegan pizza,vegan treats,vinnie's pizzeria
+529	
+531	comedy cellar,shwarma
+534	aaron burr,balcony,bravo,carriage house,fireplace,photobooth,piano,romantic,salon,zagat-rated
+543	burgers,closed,dj,martinis,steaks,sushi,ues
+544	big ass fan,big ass fans,clued,masters of the universe,rooftop
+545	japanese,japanese street food,okonomiyaki,snacks,takoyaki
+549	bastille day,bravo,brooklyn,brunch,coq a vin,croque madame,french,futbol,jazz,live music,moules frites,park,ricard,sidewalk seating
+552	coffee
+554	american bistro,best breakfast in nyc,media executives,outside patio
+555	chelsea,italian,recommended,wine,wine bar
+561	
+563	brunch,happy hour,outdoor seating
+564	24 hours,bravo,bravoandy,brunch,chicken & waffles,hangover,late night,mac and cheese,open 24 hours,outdoor seating,scene,steak & eggs,top chef,trendy,zagat-rated
+571	 with a twist!,beers,great southern food
+573	sandwiches
+575	brunch,open 24 hours
+577	
+578	beer,brewery tour,brooklyn,hipster
+581	coffee,facebookphotosniffer,good_mark,hipsters,people-watching
+585	ceviche,chips and salsa,happy hour,lobster,margaritas,mexican food margaritas tacos enchiladas rib eye c,monday wine lovers special
+590	chicken,had the fish with five flavors again!  taste so good!,spanish & chinese restaurant,spanish restaurant
+591	bravo,combo,fruit drinks,good_mark,hot dogs,papaya
+602	asian fusion,black rice,cheap and tasty,communal tables,crowds,curry,food,manhattan,noise,noodles,pad thai,restaurant,tofu,vietnamese
+603	
+608	american,danny meyer,french,hiphostessnyc top pick,italian,pat lafrieda,zagat rated
+609	america's first pizzeria,coal oven pizza,pizza,zagat,?
+614	
+618	azn,brunch,fried chicken,thai
+624	breakfast,coffee,coffeeshop,diner,discofries,latenight,liquor,pie
+626	 24-hours, dessert, dinner, espresso, vegan options,24\/7 - always open,beer and wine,bruch special $10.95,brunch,champagne cocktails,coffee,garden,happy hour
+630	3 michelin stars,bravo,eric ripert,fine dining,french,michelin star,rated by zagat,restaurant,seafood,wine,zagat rated,zagat-rated
+631	fried chicken,fried chicken joint,soul food,waffles
+632	booths,bravo,celebs,edward sorel mural,fireplace,fran lebowitz,garden,graydon carter,mac & cheese
+638	breakfast,salads
+639	bravo,chinese,fried dumplings,scallion pancake,soup dumplings,zagat,zagat-rated
+640	br guest hospitality,guacamole,margaritas,online reservations @ www.doscaminos.com,private room,salsa,sangria,tacos,tequila,www.brguesthospitality.com
+648	brunch,jam
+649	mexican
+653	dumplings,excellence
+654	bbq,bbq pitmaster,bourbon,burger,comfort food,kansas city ribs,macaroni and cheese,north carolina bbq,nymag,pat lafrieda,people,restaurant,socialite,tequila,tlc summer
+655	amazing giblet gravy,down home breakfast,foodnetwork,fried chicken joint,harlem,lenox,nyc,restaurant,short ribs are delicious!,soul,soul food,sylvia,the best cornbread,the best red velvet cake,zagat
+656	patio,portuguese
+662	pizza
+663	michelin star,wall street journal,wine,wsj
+669	chinese
+675	alaskan king crab,crab cakes,crabs,craft beers,happy hour,lobster,outdoor seating,oyster bar,seafood,wine bar
+676	bravo,bravoandy,china town,seafood
+677	
+681	pizza
+686	byow,cash only,good_mark,organic,vegan,vegetarian
+687	
+692	sushi
+695	bar,brunch,burgers,cocktails,cool staff,dinner,dorrian's,drinks,enormous pannini's,enormous wraps,food,fun,late night,lunch,outdoor seating,parties,preppy,redskins football,sports
+696	amazing italian food!,babaresco,barolo,joe bastianich,mario batali,wine
+699	bravo,zagat-rated
+700	#vday,bakery,bar,bistro,blackbook,blogger hangout,bouillibaise,bread,breakfast,briertown,catering,celebrities,celebrity,coffee,cookbook,cuisine,cupcake,delivery,french,how to make it in america,lunch,mario batali,nymag,oysters,pastries,restaurant,snails,soho,take-out,tartare,trendy,where to eat 2011,wsj,zagat-rated,zagat_rated
+711	
+713	 baseball, new york yankees,micky mantle
+717	
+718	burger,daniel boulud,db burger,french,theater district
+721	bar,bravo,caviar sandwich,gossip girl,huffpost,ifc,oyster bar - grand central,pizza,raw bar,scallop pan roast,strip club,trendy,wsj,wsj lunch box,zagat-rated
+723	cash only,dessert,don't forget to bring cash... no plastic accepted ,hot people,italian food,lounge,luckymag,outdoor seating,pasta,people,people mag,people magazine,people vip,people watching,sexy people,socialite
+733	chinese
+740	abita,bar,bbq,cajun,creole,oysters,raw bar,seafood
+741	american,brunch,comfort food,fried chicken,good_mark
+744	dan barber,michelin star
+749	bone marrow,fried chicken,oysters
+751	sushi
+753	pasta,wine
+756	noise
+764	bbq,bouley,bravo,fantastic lunch,michelin star,people hot spot badge,people vip,vip,zagat,zagat-rated
+769	bravo,brooklyn,cheesecake,dining hall,massive sandwiches,seafood,the original,zagat rated,zagat-rated
+770	cigar
+771	
+772	can't get in,celebrities,classic new york,no reservations,own your table,the mob
+773	@bryant park,bryant park grill,grill,midtown,nlo,public library,restaurant,rooftop bar,zaga-rated,zagat-rated
+774	brunch,dinner,lunch
+781	cuban food,restaurant
+784	2 for 1 sangria,bacon wrapped shrimp,paella,private party room,sangria,spanish,tapas
+787	daniel boulud,lamb,michelin star,restaurant
+788	bar,beer,bloody mary,booze,brooklyn,brunch,burger,bustle,classic,cocktails,foodie,hipster,retro,williamsburg
+792	blackbook,bravo,chicken,gossip girl,gossip girls,tom colicchio,top chef,zagat-rated
+801	bobby flay,celebrity-chef,restaurant,southwest
+804	bistro,french,zagat
+807	cheap,sushi
+808	
+809	837,bar,cocktails,dessert,launch my line,old new york,restaurant,seafood,steak,suits,wine
+812	 breakfast, dinner, ellen degeneres, lunch, paula dean, vegan,american,comfort-food,grilled cheese,hamburgers,macaroni and cheese,meatloaf,midwestern,zagat rated
+813	choice eats,cup cake,egg cream,gossip girl,lime rickey,nymag,pastrami,sandwich,socialite
+824	sushi
+830	inexpensive,itallian,wine
+833	bakery,cake,candle,candle cafe,cookies,farm,gluten-free,juice bar,local,organic,organic beer,organic wine,sustainable,vegan,vegetarian
+834	foie gras,tasting menu
+837	\food truck\,astor place,coffee,food truck,mobile,mudtruck,new york street coffee,ziggys wagon
+840	best cupcakes,coffee,cupcake,cupcake cafe - hell's kitchen,dessert,just dessert,moriza,tlc summer,trendy,valentine,valentine's day
+841	bistro,french,garden,outdoor space,restaurant,wine
+845	cake,cheesecake,cheesecakes,dessert,italian,places to see in nyc
+851	brunch
+859	asian fusion,chinese,new york,radio city,restaurant,rockefeller center,times square,zagat-rated
+874	beer,cheeseburger,dessert,fish,hamburger,oysters,puma,seafood,steak,wall street journal,wine,wsj,wsj lunch box
+884	lobster roll,oysters,restaurant,seafood,sundae,west village
+885	
+886	indonesian,malaysian,singaporean
+890	steak,steakhouse,zagat-rated
+899	bar,burgers,cash only,cheap beer,great fries,hamburger,late night food,old stuff,yum yum yum
+905	a bit fishy,bravo,fish,japanese,japanese food,loads of fish,lots of fish,rude waiter carl krebs,rude waiter carl krebs!!!!,rude waiters!!!,socialite, exclusive, $$$$, jetsetter,sushi,zagat rated
+907	
+908	bagels,cream cheese,ice coffee,orangina,perry ellis
+909	
+910	
+911	vegetarian
+916	
+917	gastronomy,outside seating,patio,romantic,small venue
+920	late night,pizza
+925	diner,knish,kosher,matzoh ball soup,pastrami
+926	italian,restaurant,tribeca
+928	awesome bacon,bbq,bravo,brooklyn,cash only,classic ny,creamed spinach,financial district,gossip girl,grumpy waiters,lunch,porterhouse,schlag,sundae,time out,time out new york,timeout,timeout magazine,timeoutny,top chef,wsj,wsj lunchbox,wsj urban adventurer,zagat rated
+933	
+938	hipsters,italian,outdoor seating
+945	burrito,full bar,late night,mexican food,tacos
+946	pho,vietnamese
+948	douchebag,family style, italian
+954	chinese,dim sum,seafood
+955	beer,burger,cheeseburger,fries,hooters,shrimp,surfer,wings
+957	burlesque,cabaret,caberet,cocktails,jazz,live music,outdoor,park
+958	bar dining,brunch,caviar,crab,dinner,fish,lounge,lunch,outdoor dining,oysters,restaurant,seafood,soho
+962	chinese,duck,restaurant
+971	chinatown,ph?
+974	2chicksinc,aycd,bar,brunch,cocktails,martini,trendy
+980	burgers,live jazz,live music,restaurant,spinach artichoke dip,steak,veggie burger
+981	
+984	barf,bellini,italian,zagat,zagat rated
+985	drunk people,good_mark,hot dog,late night,pdt,tater tots,trendy,trendys,video games
+986	
+996	brunch,french bistro,tribeca,zagat-rated
+998	french,wine
+999	
+1001	chicken madras,phaal challenge,phaal curry monster
+1002	douchebag,douchebags,escape from nyc,slow service
+1008	bring a date,brooklyn,calamari,cocktails,dark restaurant,great food,lunch
+1016	
+1025	michelin star,zagat
+1030	enchiladas,good ambiance, have a dos equi,tacos
+1031	bon appetit mag,bravo,danny meyer,eater 38,farmer's market,food truck,manvsfood,michelin star,tom colicchio,topchef,zagat rated
+1035	tapas
+1036	bravo,bravozagat,zagat
+1038	cajun food,jukebox
+1043	cocktails,dessert,friendly staff,great service,tempura green beans
+1049	bravo,vegan,vegetarian,zagat-rated
+1050	late night food
+1055	
+1060	bar,beijing duck,chinese,fine dining,restaurant
+1063	24 hours,amazing pie,breakfast,burgers,coffee,dinner,restaurant,steak
+1064	
+1065	french,wine
+1066	chinese restaurant,midtown,new york
+1069	$2 miller high life,all day happy hour,beer,gluten-free options,kids,pie by the pound,pizza,vegan options
+1070	bar,tapas
+1071	cuban,cuban sandwich,greasy
+1073	cuban,sangria,yuca fries
+1075	24 hour,bar,diner,perogies
+1085	
+1086	24 hours,a-lite,blintzes,bon appetit mag,borscht,breakfast,deliciousness,free wi-fi,gallery,hipsters,nymag,people hot spot,people vip,people vip badge,pierogies,raspberry iced tea,russians,socialite,ukraine,ukrainian,veselka,waffles
+1091	bravo,brunch,extensive wine list,italian,late night,panini,rare vos beer,wine
+1092	bar,bloodymary,brunch,coffee,dessert,dinner,happy hour,live music,lunch
+1101	
+1105	bowling alley,breakfast,diner,dog run,fried chicken,gallery,karaoke bar,late night,latenight,play ground,record shop,ski area,vegetarian
+1107	
+1108	bakery,cappuchino,dessert,food,gelato,ice cream,italian,little italy,manhattan,pastries,tiramisu
+1109	buffet,churrascaria,dining experience,gossip girl,graphic.ly,great service,live music,restaurant,steak,steakhouse,zagat rated,zagat-rated,zagat-survey
+1111	cheese,food,italian wine,outdoor seating,tapas,wine,wine flights
+1112	
+1117	
+1118	 beer, chicken, churrasco, salads, sandwiches, shakes, wine,burger,burgers,milkshake
+1119	bento,japanese,sushi
+1120	
+1124	
+1128	
+1129	#turnred,boroughs,bravo,bravoandy,butter,frat boy,frat boys,french,gossip girl,nightclub,pizza,puma social hot spot,single,singles,trendy,turnred,wsj urban adventurer,zagat,zagat-rated
+1130	shanghainese,soup dumplings,xiao long bao
+1137	steak, wine, restaurant, foodies, eatnyc
+1142	harlem,mac and cheese,moroccan fried chicken
+1143	 medan,@7ruhupdate,@denymulyana,@ravi brielianto,@ricky garcia,@sita,american , steakhouse , socialite , andy cohen,barbeque,bbq,bravo,bravoandy,cimb niaga banjar,delicious,douchebag,foodie,frat boy,monfalcone,nightclub,photo booth,rie checked-in @perum kertasari ciamis,ring road,seafood,sep,socialite,steak house,the palm,top,top chef,zagat rated,zagat-rated
+1152	bravo,korean,ll,piano,waterfall
+1155	breakfast,brunch,coffee,food truck,good_mark,hipster,mud coffee,wine & beer,x-marked
+1156	garden,lobster sandwich,oyster happy hour,oysters,pudding,sea food
+1157	meat packing district,seafood,steakhouse
+1158	korean,korean bbq,korean home cooking,quentin tarintino,restaurant
+1163	after hours,brunch,cocktails,dinner,lunch,margaritas,take out
+1164	
+1165	after work spot,bar,happy hour
+1177	bar,cheese,far far away,food,gelato,gluten free menu,italian,italian restaurant,joe bastianich,mario,mario batali,meat,new york,new york city,ny,nyc,olive oil,pasta,pizza,pizza place,restaurant,wine,wine bar,zagat,zagat-rated
+1185	
+1186	good mojitos,great food, drinks, entertainment,hip hop dancing,mexican food,mojitos,salsa (dance, that is),salsa dancing,terrible service
+1188	homestyle
+1192	diner,fried chicken,good_mark,karaoke bar,omnivore,play ground,vegan,vegetarian,village
+1193	
+1194	
+1201	bar,bistro,crepes,fondue,french,huge salads,outdoor seating,salads,soup,steak frites
+1211	beer,brunch,cupcake,cupcakes,cute,muffins,rice krispy treats,vegetarian,wine
+1216	deli,italian,sandwiches,subs
+1218	bubble tea,food
+1220	blackbook,brooklyn,brunch venue,downstairs lounge,logotv,mixed crowd,private parties,the a-list,zagat
+1222	garden,jazz,social dining
+1223	cash only,cheap eats,chinese,chinese food,chopsticks,food,scallion pancakes,shanghainese,soup dumplings,tourists,vegetarian dumplings,xiao loong bao
+1225	 bar, cuban food, happy hour, mojito, sangria,group dining,tapas,vegetarian food
+1231	east village,italian,pizza,restaurant
+1232	bar,free food,sangria,tapas
+1233	
+1241	brunch,jam,pancakes,waffles,zagat-rated
+1242	world's best lasagna
+1250	appetizers,classy,cocktails,fresh herbs,lounge,romantic,seafood,vietnamese
+1254	crudo,dave pasternack,joe bastianich,mario batali,nymag,seafood,wine
+1268	cheap,chinese,chinese food,dim sum,gigantic
+1271	baguette,bakery,bread,breakfast,brunch,cafe,coffee,lunch,organic,pastries,retail,salads,vegan,vegetarian
+1282	american,bar,famous burger,hot girls
+1283	brunch,french,late night,soccer,steak frites,world cup,worldcup
+1284	bbq,bbq pitmaster,bbq ribs,frat boys,margaritas,pbr,photo booth,photobooth,trendy
+1285	greek,mediterranean
+1289	
+1292	brunch,english candy,not wheelchair accessible,scones,tea
+1299	coffee,sandwiches
+1305	diner,salmon
+1307	italian,joe bastianich,late night dining,mario batali,pizza,restaurant
+1316	bar,brunch,burger,burger conquest,champagne cocktails,cocktails,garden,good_mark,hipsters,kid friendly,kids menu,mac and cheese,open late,patio,polo dobkin,zagat
+1326	pizza
+1327	3 michelin stars,blackbook,daniel boulud,michelin star
+1329	bbq,bloody mary,breakfast,brunch,cupcake,trendy
+1345	after club,breakfast,burger,diner,late night,milkshakes,open 24 hours,soup
+1347	cafe,coffee
+1348	bar,japanese,manhattan,noodles,sake,sapporo,sashimi,sushi,upper east side
+1354	delicious rosemary foccacia,friendly staff,great pizza
+1360	
+1372	pasta
+1376	bar scene,burgers,cafe,group dining,jean-georges restaurant,pizza,restaurant
+1378	baked alaksa,cocktails,eggs benedict,filet mignon,financial district,lobster newburg,manhattan,oysters,salmon,steak,wine
+1379	dessert,peanut butter,sandwiches,shakes
+1393	free wifi,pizza
+1394	bar,bbq,bourbon,cowgirls,douchbag,douchbags,karaoke,music,southern food,tequila,tex-mex
+1395	best nyc pizza,brooklyn,buffet,cash only,dining hall,douchebag,dumbo,financial district,gossip girl,long lines,near water,no slices,park,pizza,socialite,tourists,where to eat 2011,white sauce,worth the wait,wsj lunchbox,zagat
+1398	
+1404	coffee,deli,homemade soda,huge sandwiches,lower east side,no coffee,sandwich,sandwiches,vegetarian options
+1407	cantonese,dim sum
+1410	bar,cocktails, inexpensive, meatpacking district, rust,dancing,dj,music,new york,pasta,sports
+1411	brooklyn bridge,brooklyn heights,italian,outdoor seating,restaurant
+1412	
+1415	chinese,chinese restaurant,chinese roast meats,congee,restaurant,rice noodles,roast pork,wonton,zagat-rated
+1419	vegan,vegetarian
+1428	bar,burgers,dive,gay,happy hour
+1430	
+1441	belgian,brunch,burgers,good beer,import beer,mussels,pasta,restaurant,seafood,steak
+1446	activist center,bookstore,cafe,feminists,good coffee,readings,timeoutny,volunteer-run,zines
+1448	chinese food,deliciousness,noodles
+1454	douchebags,italian,outside sitting,pizza,sidewalk cafe,wine bar,wine tasting
+1465	bathroom,drunk people,hipsters,late night
+1469	get seated upstairs, especially if you are there with kids.,pizza
+1473	24 hours,beer,breakfast,brunch,burgers,cappucino,coffee,dessert,dinner,east village,espresso,full bar,latte,lunch,pasta,pinball,salad,sandwiches,soup,wine,wings,wraps
+1476	clam casino,spaghetti bolognese
+1477	dessert,great atmosphere,japanese,no msg,noodles,soba,udon
+1481	live music,sangria,tapas
+1483	latin,restaurant
+1486	american,asian,brown rice,college girls,tofu dinner,turkey burgers
+1490	chinese,dim sum,veg dumplings
+1492	burger,food,happy hour,pubs,raw bar
+1494	
+1495	thai food
+1497	
+1498	latin american,plantains,social dining
+1501	art,bar,cabaret,food,music,performance,poetry,restaurant,spoken word,wine
+1508	grilled pizza,pizza
+1535	bar,burgers,loud,lounge,mini burgers,music,shakes
+1543	brooklyn,cafe,coffee,coffee shop,new york,new york city,ny,nyc,park slope,pastries,restaurant,strong coffee,wifi
+1554	bakery,biscuits,cafe,chocolate chip cookies,chocolate zucchini cake,coffee,cookies,cupcake,cupcakes,douchebag,french toast,hot chocolate,hot chocolate festival,macaroni & cheese,marshmallows,organic,pretzel croissant,scones,timeoutny,valentine's day linzer cookies
+1555	brooklyn,computer_friendly,gossip girl,outdoor_seating,socialite,wifi,windows,work_friendly
+1563	ice cream,ice cream cakes,ice cream cupcakes,ice cream sandwiches,shakes & smoothies,tim hortons coffee,tim hortons donuts
+1602	 great bands wednesdays,austrian,beer,free movie sundays,goulash,lunch,park slope lunch,warm atmosphere,zagat-rated
+1639	bakery,baking,breakfast,brunch,fried chicken,pancakes,scones,southern
+1651	conveyer belt,diner,dog park,fried chicken,japanese,japas,karaoke,record shop,ski area,sushi
+2524	
+2534	br guest hospitality,guacamole,margaritas,online reservations @ www.doscaminos.com,outdoor dining,salsa,sangria,soho,tacos,tequila,top chef,www.brguesthospitality.com
+2537	byob,iced coffee,noodles,pho,restaurant,vietnamese
+2538	korean,korean food,lunch specials,restaurant
+2540	
+2541	wheelchair access
+2561	best pizza,brooklyn,di fara,dive,dom dimarco,food,fresh basil,insane lines,ny style pizza,pizza,restaurant
+2562	green tea,izakaya,long wait for table,okonomiyaki,sake,takoyaki
+2577	borgias,bottle service,bravo,free admission,great music,hip-hop,house\/ electro,lounge,nightclub,salsa,saturday party,weekend party
+2578	bronte burger,great coffee
+2585	bar,beer,food,happy hour,irish,music,roof deck,sports bar,trendy
+2586	french
+2593	aussie,australian food,bar,beer,garden,outdoor dining,private parties,pub,sports,world cup
+2606	brunch,cool drinks,dogs,near dog run
+2622	brunch,good food,good for birthday groups,half-price pitchers on wednesdays,happy hour,late night dinner
+2623	asian,bravo,romantic,southeast asian
+2626	
+2640	cash only,inexpensive,italian,noho,restaurant
+2642	mexican,mojitos
+2658	
+2660	
+2666	cupcake,cupcakes,dessert,macarons,soft serve
+2678	cafe,good coffee,gossip girl,no laptops,socialite,socialities,trendy,trendys,wawa
+3184	beer,bravo,bravoandy,burgers,check in,choice eats,college restaurant,danny meyer,fries,frozen custard,gramercy,hot dogs,long lines,madison square park,milkshake,outdoor seating,pat lafrieda,shake shack,shakes,tech hangout,timeoutny,villlage voice choice eats,voicestreet,wine,zagat-rated
+3201	
+3205	french,good happy hour,world cup
+3214	
+3215	
+3216	brunch,social dining
+3218	+ wifi,24 hours,bravo,brunch,cool,cupcake,douchebag,douchebags,eletronics,gossip girl,great breakfast!,kid friendly,library,local ingredients,midnight brunch,ms pacman,photobooth,pie,puma social hot spot,socialite
+3219	zagat-rated
+3224	east village,restaurant
+3225	
+3227	australians,bar,brunch,cash only,douchebag,gossip girl,playground,time out new york,timeout,timeoutny,unlimited drinks
+3228	dog friendly outdoor seating,sushi
+3229	amsterdam ave,coffee,columbia university,david byrne bicycle stand,fomenting revolution,morningside heights,pastry
+3231	cafe,coffee,coffee shop
+3235	italian,pizza,sandwiches,wine
+3243	italian,pasta
+3246	bar,gold,italian food
+3250	scene,zagat-survey
+3266	blackbook,bravo,creative cocktails,eat and drink local,extensive wine list,fried oysters,memorable and attentive service,restaurant,top chef,topchef,vibrant bar scene
+3273	brunch,champagne,foie gras,french,provencal
+3278	air conditioning,garden seating
+3281	dog friendly,outdoor seating,wings
+3284	brunch,food,live music,outdoor seating,pizza,restaurant
+3293	
+3294	tourist
+3297	 champagne, cheese, dessert, meats, port, small plates, wine bar,trendy,trendys,wine
+3298	late night kitchen 'til 2am thur fri sat,lunch dinner,outdoor dining. patio. sidewalk cafe.,private party room,sports,weekend brunch sat & sun
+3306	canada cabin,go canucks,great atmosphere,great food,great staff,hockey bar,hockey night in canada
+3310	bar lounge,brunch,italian,models,outdoor,outdoor patio,vegetarian friendly
+3319	delivery,italian,pizza,restaurant,wheelchair access
+3335	hipsters,lower east side,margaritas,tequila
+3347	excellent,good_mark,happy hour,hummus,middle eastern,moroccan
+3362	brunch,italian,patio
+3372	awesome,tapas,wine
+3412	cheap eats,mojitos,thai,zagat-rated
+3421	manhattan skyline,rooftop,view
+3423	byob,christmas lights,garden,good service,indian,indian food,vindaloo
+3432	biodynamic wine,celebrity spotting,expensive,five course tasting menu,live vegan,outdoor dining,raw dessert,raw food,raw vegan,restaurant,vegan,vegetarian,wine
+3441	urn of beer
+3445	my favorite place,waiting for delish soup and sand.
+3446	coffee,dessert,pastries
+3449	amazing,arepa,cheap eats,good_mark,vegetarian friendly,venezuelan
+3511	beer,mexican food
+3521	bar,beer,bull penis,cheap beer,cotton candy,dorks,ga,japanese food,open late,restaurant,rocky mountain oysters
+3524	bar,comfort food,diner,homestyle,philly cheesesteak,pub,vegan,vegetarian
+3557	beer,booze brunch,brunch,cocktails,dessert,fast lunch,gluten free,nes mural,pastries,pizza,pizzeria,restaurant,salad,seafood,stumptown coffee
+3560	
+3575	banana pudding,breakfast sweets,brownies,buttercream icing,cake,coffee,cookies,cupcakes,dessert,lemon cupcakes,milk,polaroid wallpaper,red velvet cupcakes
+3582	babies,bagels,beer,brooklyn,cake,coffee,cupcakes,dads,free wifi,jazz,moms,park slope,sandwiches,strollers,tea
+3723	margaritas,mariachi,mexican
+4145	central lounge,fake tans and bleach blondes,gold chains,good looking crowed,greaseballs,greeks,italians,jimbabway,jus jack,long island,meatheads,orange skin,sushi
+4156	amys bread,bakery,brownie,coffee,cup cake,espresso,event,food network,foodies,free wifi,google,ice cream,ivillage,kitchen supplies,market,mr youth,ny1,oxygen network,ronnybrook farm,salad,soup,sushi,tea,wheelchair access,wifi
+4283	dumplings,korean bbq,wheelchair access
+4310	brunch,choice eats,simon's favorites,voicestreet
+4318	kyoto,n,sushi
+4326	gossip girl,nymag,socialite
+4340	backyard,hipsters,kimchee,miso soup,rice tea,sake,sandwiches,wifi
+4342	michelin star
+4376	dumplings,lunch special
+4389	chinese,great selection,inexpensive,super fast
+4392	diner,ghostbusters ride,seinfeld,suzanna vega
+4403	
+4429	 gossip girl, playground, socialite,bbq,bloody mary's,bravo,brunch,cocktails,cupcake,cupcakes,douchebag,food truck,foodie,good_mark,haircut,hipster,strip club,taxidermy,top chef,trendy,zagat-rated
+4434	chinese,indian,spicy
+4442	outdoor,rude staff
+4448	chocolate,cozy,local food,oysters,simon's favorites
+4449	margaritas,mexican,nachos,ues,upper east side
+4454	biscuits,brunch, breakfast burrito,dinner,lunch,stumptown coffee
+4461	bakery,birthday,bravo,buttercream icing,cakes,cheesecake,coffee,cookies,cupcakes,dessert,milk,pies,sweet
+4472	beer,breakfast,cafe,coffee,coffee shop,fondue,salads,sandwiches,scrabble,tea,wifi,wine
+4473	restaurant
+4506	
+4513	biltong,brunch,food,restaurant,south african,south african wine
+4523	byob,clued,filipino,tapas,upstairs
+4524	east village,restaurant,sangria
+4529	#thrillist,bar,brunch,cocktail,date,dinner,hotel restaurant,upscale
+4532	ceviche,spanish,tapas,wine
+4547	bacon,blt,brunch,choco-chip cookies,frankie's 457,franks,italian,meatballs,so much fun,stable,stumptown coffee,wine
+4549	tapas,wine
+4556	barbeque, ribs, brisket,bbq,beer,bravo,eater 38,mac n cheese,pork,salt potatoes,try the tres hombres,wings,yitang,zagat-rated
+4561	burger,cash only,hamburgers,hidden,ifc,restaurant,tourists
+4566	office,zagat-rated
+4569	date, live music, basque, wine
+4576	margaritas,mexican
+4608	bar,bat,korean bbq,wheelchair access,wine,wine bar
+4612	social dining
+4615	
+4625	brunch,cerviche,ceviche,guacamole,margarita,mexican,taco,tequila
+4626	backyard garden patio,burger,foosball,great cocktails,pacman,pool,ribs that fall off the bone,sliders
+4635	financial district,martini,puma,salud restaurant & bar,south street seaport,tapas,zagat rated,zagat-rated
+4640	3 michelin stars,blackbook,michelin star,thomas keller
+4649	cafe,cuban,cuban food,food,happy hour,ny
+4671	
+4677	michelin star
+4684	vegetarian friendly,wheelchair access
+4696	asian,cafe,cheap,diner,noodles,puma social hot spot,restaurant
+4705	free wifi,outlets,wifi
+4707	
+4709	2 michelin stars,michelin star
+4720	awesome,backyard garden,brunch,comfort food,deviled eggs,happy hour,pancakes
+4731	mtv networks
+4733	 gossip girl, playground, socialite,bravo,bravoandy,brunch,dining,douchebag,douchebags,far far away,ice cream,restaurant,top chef,zagat rated,zagat-rated
+4734	barbuto,chef table,chicken,gnocchi,pasta
+4735	askmen,bankers,club,old new york,speakeasy,test
+4749	fish,lobster roll,oysters,seafood,zagat-rated
+4767	breakfast
+4776	
+4777	thai
+4797	best mac n cheese,boozy bluegrass brunch,catering,comfort food,daily happy hour 5-7,dinner,group deals,holiday parties,late night lounge
+4815	bakery,breakfast,green tea cookies,japanese,onigiri,pastry,sushi
+4821	margaritas,mexican,tex-mex
+4829	greek food,lamb
+4830	raw bar,seafood
+4834	beach,clued,outdoor seating,russian
+4839	have a margarita!,have some wings
+4840	
+4843	 not \asian restaurant\ like categories indicate, though there are dishes that have an asian influence.,amazing mac n cheese with frizzled onions!,asian chicken salad,brunch,cocktails,new america restaurant
+4848	bravo,italian,pizza
+4850	americanized,vespa scooter delivery,vietnamese
+4853	love the sushi... the kobe is solid as well.,zagat rated,zagat-rated
+4855	
+4865	indian
+4869	brunch
+4878	
+4879	 dessert, ice cream,bakery,bravo,breakfast,brunch,choice eats,muffin,restaurant,scone,tea,tea, sandwiches, whole foods, salads, gifts
+4889	24\/7,bar,bobby flay,coffee,french toast,open 24 hrs,paula dean,restaurant,tea,zagats rated
+4898	greenpoint,mexican,tex-mex
+4912	zagat,zagat-rated
+4918	breakfast, lunch, dinner, brunch, jazz, cocktails, wine, beer, burger, lamburginis, washington square park, washington square hotel, prix fixe menu, happy hour, lounge, bar
+4920	chinese,mapo tofu
+4931	cauliflower,chicken shawarma,falafel
+4933	baguette,bread,brioche,cake,coffee,croissant,muffin,sandwiches,uws
+4937	
+4941	
+4946	margaritas,tacos
+4954	soup dumplings,zagat,zagat-rated
+4955	
+4987	barbecue,barbeque chicken,bbq,bbq pitmaster,chelsea,cocktails,manhattan,pulled pork,ribs,sausage,super secret burger night
+5000	spicy,tandoor
+5004	bbq,japanese food,korean food
+5035	margaritas
+5054	coffee,starbuck
+5076	food,mexican
+5212	bowling alley,diner,dog run,fried chicken,karaoke bar,play ground,record shop,ski area,sushi,vegan
+5222	burgers,drinks,food,music
+5235	
+5259	cafe, coffe house, brooklyn,coffee,open mic,pratt students
+5269	
+5300	
+5325	bar,curry,gallery,thai
+5348	
+5377	brunch,french
+5378	2 for 1 martinis,coffee,desserts,flatbreads,happy hour,pasta,wood burning oven
+5426	awesome bbq\/pulled chicken\/collard greens,barbeque,bbq,beef rib,bon appetit,boroughs,bravo,cafeteria seating,lucky magazine,lunchbox,sweet tea,tlc summer,wsj lunch box,wsj lunchbox,wsj urban adventurer
+5455	beer,hot sandwiches,panini,patio,press 195,sangria,wine bar
+5474	chicken parm,garlic bread,italian food,old school,red sauce italian,vegan,wine
+5515	
+5553	cuban,dj,frozen mojitos,good_mark,grey water toilets,grilled corn,kids corner,margaritas,mexican,mexican corn,mexican food,restaurant,solar
+5573	organic,vegan,vegetarian,wine
+5574	ethiopian food
+5575	restaurant,vegan
+5577	
+5606	brooklyn,brooklyn museum,brunch,tapas
+5608	cheap beer,food,japanese,japanese food,japanese restaurant,late night,sake,yakatori,yakitori
+5612	
+5614	
+5622	mad delicious shrip tacos.
+5637	bar,chicken,get a table in ryan's section so cute and good service too,italian food,restaurant,spaghetti,wine
+5639	mexican,ricky's,sangria,specialty drinks,tequila,unlimited brunch
+5648	+ sant tana r,zagat-rated
+5661	gyoza,japanese,noodles,ramen
+5664	coffee,free wifi,grilled cheese,muffins,organic,tea,vegan,vegetarian
+5705	awesome nachos,brunch,mexican,micheladas
+5729	falafel,fastfood,lamb,pita
+5744	bbq,best mexican on earth,bravo,bravoandy,celebrities,cupcake,food truck,recommended,soho,tacos
+5760	bar,chorizo burger!,crab cake sliders,wla discount card
+5769	cheap eats,japanese,noodles,pho,shabu shabu,soup,vietnamese
+5778	brunch,brunch, park slope,falafel,israeli,labneh cheese
+5779	allergen friendly,bakery,birthday cake,bravo,choice eats,coffee,cookies,cupcake,cupcakes,dairy free,donuts,gluten free,gluten-free,tea,vegan
+5854	breakfast
+5862	
+5863	thrillist
+5867	
+5874	great sandwiches,italian sandwiches
+5886	
+5892	restaurant
+5899	a kiosk within the main entrance of bubby's.,bbq,boroughs,brooklyn,craft beer,financial district,home cooking,local,lunch box,lunchbox,near water,organic,park,pie,tlc summer,wsj lunch box,wsj urban adventurer
+5900	bakery,cupcakes,pastries
+5904	bagel,coffee
+5918	belgian fries,free samples,french fries,fries,frites,poutine,sauce,zagat-rated
+5939	black history,cajun,crawfish,douchebag,food,greenwich village,grio,high tech outlet,manhattan,pizza,quick service restaurant,syracuse,syracuse university
+5960	brunch
+5965	food,french,les,love it,orchard,restaurant
+5987	beer,breakfast,coffee,food,good music,interesting art exhibits on the walls
+5988	
+5991	burgers,juice bar,vegetarian
+5992	blintzes,borscht,brunch,omlettes,pancakes,pierogies
+6023	arada,jakarta,japanese,mtv,music,naruto,ninjas,rasengan,star,sushi
+6057	 and they customize orders like no one else., ranging from country breakfast to nice italian entrees,24 hours,breakfast,daisey's diner is the quintessential definition of what a neighborhood diner should be.  it has an enormous menu,diner
+6079	
+6087	japanese,sushi
+6089	byob,dragons,late-night food,tacos
+6120	bar,brunch,cocktails,hipsters,taxidermy
+6147	coffee,coffee shop,free wifi,triple shot espresso
+6148	restaurant,thai,vegetarian
+6151	bloody mary,brunch,burgers,burritos,late breakfast,lunch,nachos,pancakes,veggie burger,waffle and fried chicken
+6158	zagat-rated
+6175	bar,chelsea,contemporary american,italian,italian cuisine,manhattan,restaurant
+6185	featured on the food network,great pasta,lasagna,spagetti,wood fired pizza
+6187	bar,diner,karaoke
+6205	bubble tea
+6206	brunch,cocktails,great food, great atmosphere!,ice cream,long wait,outdoor
+6222	
+6224	best,coffee,pastries
+6225	cozy,date night,italian
+6232	chinese,take-out
+6238	coffee,food,italian,restaurant,wine
+6251	art,brunch,free pool,green chiles,kat
+6261	omakase,zagat
+6287	beer,bravo,brooklyn roasting company coffee,burger,burgers,coffee,doughnuts,homemade pickles,macaroni and cheese,milkshake,open late,polo dobkin,serendipitea,zagat-rated
+6293	april bloomfield,blackbook,bravo,brooklyn,burger,douchebag,farmer's market,gastropub,long wait,michelin star,pat lafrieda,roquefort cheese,scene,the spotted pig,top chef,trendy,zagat-rated
+6299	breakfast,brunch,french,restaurant
+6305	brunch,french,restaurant,unlimited mussels
+6313	burrito,guacamole
+6352	amaro montenegro,coffee,good_mark,italian,wifi,wine
+6375	brunch,coffee,croissants,gossip girl,panini,salads,sandwiches,scones,smoothies,soups,tea,tea house,vegan
+6380	
+6381	beer,fl®πgen flaggen,oktoberfest,sausage
+6399	clover coffee,coffee,coffee raoster,espresso,flatwhite,pastries,tea
+6402	art,awesome bartenders,beer,cocktails,good djs,meat and cheese plates,movies
+6403	lobster,spanish
+6418	chocolate,hot chocolate,macaron
+6426	pad see ew
+6434	best in nyc,general store,gluten free,indian,indian food,punjabi,punjabi deli,punjabi dhaba,sikh,taxi drivers,vegan,vegetarian
+6506	diner,fried chicken,green,karaoke bar,macrobiotic,sushi,vegan,vegetarian
+6510	cash only,classic establishment,classic pizza,old new york,pizza,top 3 pizza,zagat
+6518	good_mark,green juices,groceries,health food,organic wine and beers,upstairs lounge
+6532	late night,nolita,sandwiches
+6565	bowling alley,diner,dog run,fried chicken,karaoke bar,play ground,record shop,ski area,sushi,vegan
+6578	pizza
+6602	asian snacks,buba,bubble tea,bubbletea,good_mark,taiwanese snacks,taro,tea,trendy
+6612	ceviche,steak,tacu tacu
+6614	omnivore,vegan
+6635	aycd brunch
+6651	
+6700	zagat rated
+6711	
+6732	bowling alley,diner,dog run,fried chicken,gallery,karaoke bar,late-night food,play ground,record shop,rice pudding,ski area,vegetarian
+6764	bento boxes,french fries,japanese,sushi,wasabi mayo
+6779	 beer and liquor,desserts,gluten free & vegan menu options available,italian cusine,pasta,roman style pizza,salads,wine
+6790	a \must visit\ for all.,dessert,rice pudding,toppings,yummy
+6793	24 hour,bagels
+6795	pizzeria
+6808	bistro,cheese,fondue,french,wine
+6813	great food,greek food
+6842	
+6850	cash only
+6855	cheese steak,cheese steaks,cheesesteak,cheesesteaks,fries,philly,sandwiches,waffle fries
+6856	guacamole,margarita,pomegranate margarita,rosa mexicano
+6861	cheese steaks,cheesesteaks
+6881	 greenwich village, happy hour, pasta, union square, wine,all you can eat,coffee,dessert,full bar,late-night dining,pizza,social dining
+6894	steak, cocktails, bar scene,steak, cocktails, bar scene, paul zweben,wine
+6897	fresh fish,japanese cuisine,sashimi,sushi
+6900	bravo,grill,italian,top chef
+6906	mexican food
+6907	bar,blue crab,cocktails,nocoorslight,tremons
+6951	asian,dumpling,dumplings,edamame,food cart,food truck,hot buns,moving target,rickshaw,rickshaw truck,street meat,truck
+6956	arepas,food,homestyle,pabellon,patacones,venezuelan
+6960	all you can drink brunch,bbq,bloody mary,brunch,fried chicken joint,mac n cheese,pulled pork,ribs,unlimited brunch
+6995	pasta,pizza,pizza by the slice,subs
+6997	asian,japanese,sake,sushi
+6999	asian fusion,chinese,food,japanese,puma social hot spot,restaurant,thai
+7002	 duck, souffle, soup, tartare,french,steak frites
+7011	bar,basement,brunch,cheap wine by the glass,great burger,restaurant
+7025	wine,wine bar
+7051	brunch,franco-american,french
+7069	
+7095	ramen
+7184	ambiance,catering,corporate and private events,fine dining,indian dining,lambchops,private events,romantic
+7202	3 michelin stars,cocktails,drinks,michelin star,sushi,the best tyre
+7203	bar,black flower,long wait,margaritas,mexican,music,vegan
+7206	
+7234	buzz,friends,lunch hour,pina colada
+7250	brunch,italian,park slope,pasta
+7278	food,key lime pie,pie
+7297	bar,flowers,food,pink
+7313	dry aged steak,steakhouse
+7319	chai,food,indian,oblivious mothers,sandwiches,screaming babies,strollers
+7332	chicken,free-range antibiotic-free chicken,fried chicken
+7357	bravo,cocktails,garden,locavore,pasta,pizza,vegetarian-friendly,wine
+7455	food network,home cooking,italian food,live music,wine
+7482	chinese,kosher,sushi
+7507	cheap food,drunk people,falafel,hipsters,hummus,open late,schwarma,williamsburg
+7519	brooklyn,michelin star,polo dobkin,restaurant,zagat
+7521	banquet hall,chinatown,chinese,chinese food,chinese restaurant,dim sum
+7524	beef,meat,models,raw bar,steak,steak house
+7535	bravo,breakfast delights,coffee,cupcake,foodie,sandwich,topchef
+7542	
+7557	+ wsj urban adventurer,bbq,biscuits,bon appetit mag,bravo,breakfast,brooklyn,brunch,burgers,chicken & waffles,chicken box,coors,financial district,frat boys,fried chicken,fried pickles,grits,lucky magazine,luckymag,lunch spot,macaroni and cheese,new york magazine - where to eat 2011 badge,photobooth,pies,pies 'n' thighs,pulled pork,sweet tea,top chef,upps,white rascal,wjs lunch box,wjs lunchbox,wsj urban adventurer,zagat-rated
+7578	all-you-can-drink,aussies,beer,brunch,seafood
+7583	burgers,chicago hotdog,cupcake,cupcakes,fast company,gallery
+7594	$1 wifi,australians,beer,laptops,lounge,table service,vegemite
+7599	bar,cinco de mayo,dancing,dj,margaritas,mexican food,nachos con chorizo
+7627	byob,gluten free,hipsters,mac 'n cheese,macaroni & cheese,s'mac
+7633	bar,brunch,ditch dog,hot dog,lobster roll,restaurant,seafood
+7656	brooklyn,brunch,cheese,cocktails,cool tea bags,excellent soundtrack,fresh squeezed oj,good lighting,good_mark,great regency style decoration,happy hour,hipster,ironically, great coffee,local,loud music,sustainable,tea,wine
+7663	pizza
+7664	house
+7670	bakery,coffee,no laptops
+7675	pizza,vezzo
+7677	deli
+7678	cheap,tacos,tex-mex
+7680	coffee
+7723	a-list,bar,barbeque,bbq,bon appetit,bon appetit mag,bon appetit magazine,bon appetite,bravo,bravoandy,burger,cafetaria,cocktails,cuo cake,cup cake,douchebag,douchebags,gossip girl,hardware,lucky magazine,luckymag,martinis,met lover,michelin star,minetta tavern,nhl,nightclub\/discotheque,outdoor,outdoors,pat lafrieda,people vip,restaurant,socialite,steak,top chef,transportier,trendy,village,vip
+7749	bar,best italian in park slope, by far,bravo,delicious,dessert,italian,restaurant,risotto,seafood,wine
+7751	park slope,prosciutto,restaurant
+7761	$9.95 three course lunch special,family style menu,good for groups,italian food,little italy,open late,private rooms,sangria, beer, wine, cocktails
+7767	backyard,blt,coffee croissants strollers,crunchy granola,focaccia sandwiches
+7776	
+7792	italian food,pasta,zagat-rated
+7794	
+7796	bald man,bravo,bravoandy,chocolate,chocolate pizza,dessert,fondu,frozen yogurt,ice cream,italian,just dessert,luckymag,s'mores,sweets,truffles,yummy stuff
+7797	bagged coffee,best coffee,brooklyn,coffee,espresso,good_mark,hipsters,new york,wifi,win
+7798	alcohol,bar,bravo,dinner,drinks,food,happy hour,lunch,music,seafood
+7818	breakfast,brunch,coffee,egg,eggs,good_mark,organic,rated zagat
+7852	coffee, burgers, douche bags
+7854	tapeo, wine, bar, lower east side, spanish, tapas
+7859	noodles,ramen
+7874	margaritas,mexican,restaurant
+7875	cheap,cheap margaritas, vegan-friendly, outdoor seating,drinks,ghetto,hell's kitchen,margaritas,mexican,outdoor seating,outside seating and tasty margaritas.
+7876	alcohol,beer,burritos,mexican food,tacos
+7893	breakfast,brunch,dessert,french fries,good ambiance,meatballs,mousse,outdoor seating,rustic
+7908	bakery,cupcake,neue pop organic caf®¶,pastries,red hook,salty caramel cupcakes,stumptown,zagat rated,zagat-rated
+7909	fresh mozzerella,fried eggplant,locals,old school,proscuitto,sweet peppers,vegetarian friendly
+7913	bourique,boutique,cheese,coffee,cupcake,cupcakes,foursquare founders' fave,frat boys,free wifi,grilled cheese,ice coffee,laptop warriors,lots of power outlets,loud,undergrads,wine
+7919	bands,bistro,brunch,casual atmosphere,comedy,escargots,french cuisine,french onion soup,gay friendly,happy hour,live music,lounge,mimosas,mussels,open mic,port flights,seafood,spoken word,steak frites,tapas,tasting menu,wine flights,wine tastings
+7920	breakfast,comfort food,dinner,meatpacking district,restaurant
+7966	
+7994	food,vietnamese
+7999	clean restroom,coffee,cookies,espresso,lots of power outlets,pastry,salads,sandwiches,soho,tables,tea,wifi
+8020	espresso,pastries
+8022	
+8025	asian,happy hour,lunch special,social dining,thai
+8026	coffee,seasonal
+8030	
+8041	bar,chinese,dim sum,restaurant,wine bar,zagat
+8042	breakfast,brunch,french,fries
+8045	al fresco,bright,desserts,firepit
+8046	bravo,club,cocktails,dancing,dj,douchebag,douchebags,food truck,foodie,gossip girl,meatpacking,mee-crop,peking duck,restaurant,sex and the city,top chef,ty ku
+8061	pho,saigon,saigon grill,social dining,vietnamese food
+8115	bar,belgian style frites,bratwurst sandwich,burgers,onion rings,people watching,soho,table seating
+8131	italian,restaurant,sunday brunch
+8133	fine wine
+8135	spanish,tapas,wine
+8164	bakery,brooklyn museum,brownies,cheese straws,coffee shop,cookies,coveredoutlets,douchebag,douchebags,gorilla coffee,icedcoffee,mini cupcakes,nooutlets,nopower,wifi,wifipassword
+8180	bar,bloody mary,brunch,mediterranean,tapas,wine
+8204	
+8223	bakery,bread,cafe,cupcakes
+8224	swiss,swiss brasserie
+8228	bravoandy,choice eats,coffee,coffee shop,cupcake,cupcakes,dessert,desserts,french macaroons,gossip girl,nutter butter,pastries,thomas keller,top chef just desserts
+8234	rasta pasta
+8276	bowling alley,diner,dog run,fried chicken,karaoke bar,play ground,record shop,ski area,vegan
+8290	cocktails,free popcorn,garden,outdoor space,restaurant
+8328	coffee,coffee shop,starbucks,tea
+8334	thai
+8433	gluten free,good pizza
+8434	Bloomin' Onion,Outback,Restaurant,Steakhouse,bar,beer,chain,chelsea,cocktails,college,frat boys,manhattan,restaurant,steak,wings
+8510	diner,dog run,fried chicken,karaoke bar,play ground,record shop,ski area,sushi
+8515	coffee,healthy,soup,tea,vegan,vegetarian,wi-fi,wifi
+8606	
+8607	french,frites,mussels
+8613	bravo,choice eats,cup cake,four stars,italian,joe bastianich,lidia bastianich,mario batali,mark ladner,michelin star,nymag,people
+8643	top chef,warung lamongan
+8652	
+8668	astoria,brunch,restaurant
+8674	cerviche,elote,family,good_mark,mexican,mexican food,park,pupusa,soccer,tacos,watermelon juice
+8698	bbq,beer,calamari,chicken,duck,food,mixed drinks,noodles,salad,spring rolls,thai food,vegetarian,wine
+8702	coffee,flatbread pizza,salad,sandwich,soup
+8706	
+8713	burgers,cheese fries,shakes,spiked shakes,waffle fries
+8770	bravo,foodie,japanese food,top chef,wsj lunch box,yakitori,zagat-rated
+8800	 socialite,blackbook,bon appetit mag,douchebag,douchebags,fresh tofu,gossip girl,iron chef,masaharu morimoto,miso,nymag,pizza,sushi pizza,ty ku
+8832	bar,cocktails,drinks, food, music, rooftop,french,hipsters,moules frites,restaurant,rooftop,summer night,terrace,williamsburg
+8844	cozy,gluten-free,organic,vegan,vegetarian
+8893	inexpensive lunch,noho,sandwiches,vegetarian
+8905	gravy,roast beef,sandwiches,soup
+8921	guacamole,mexican
+8922	2 l boots of beer,austrian,eat,financial district,german,great cocktails,neighborhood gem,schnitzel,trendy
+8947	bbq,fried chicken joint
+8953	cheese,import goods,lunch,mario batali,olive oil,olives,porchetta,sammiches,sandwiches,tapas
+8959	
+8990	happy hour snacks and great margaritas!!! m-f 5-7pm,mustache having logo,social dining
+9035	cannoli,dessert
+9062	
+9108	coffee,good music,hummus,lemonade,salads,sandwiches,smoothies,wifi
+9109	
+9110	 breakfast, tea,sandwiches
+9111	cheapism,cheapskate,falafel
+9137	bowling alley,dog run,fried chicken,gallery,karaoke bar,record shop,ski area,vegetarian
+9150	3 michelin stars,bon appetit mag,danny meyer,great service,hiphostessnyc top pick,michelin star,nymag,socialite,tasting menu,three michelin stars,zagat rated,zagat-rated
+9156	
+9170	dessert,food,pop-overs,steak,steakhouse,wine
+9173	bar,beer,chill,chowda,drinks,food,lobster,mojito,sand,surfing
+9204	burger,french fries,milkshakes,ronnybrook
+9209	backyard,bar,bar menu,beer,food,liquor,local food,park slope,seasonal food
+9212	brunch,cobble hill,dinner,italian,restaurant,tapas,very good,wine
+9223	australian,poutine
+9238	malaysian
+9239	
+9250	beer,burgers,chicken burgers,happy hour,hot bartenders & waitresses,milk shake,milkshakes,sweet potato fries,trendy
+9260	new york city, ice cream
+9262	charcuterie,cheese,cupcakes,hot chocolate,paninis
+9263	brazilian,brunch,live music,mojitos
+9264	barbecue,bbq,bourbon,cornbread,macaroni and cheese,ribs
+9298	brunch,italian,pizza,pre theater,zagat-rated
+9305	+ cheap eats,dead simple menu,late night food
+9307	
+9335	black and white cookies,buttermilk biscuits,cheap sandwiches,coffee,crullers,donuts,donuts, black and white cookies,red velvet donuts,sandwiches
+9342	scrumptious
+9363	
+9374	awesome chili,biscuits,brooklyn,brunch,douchebag,exotic brunch menu,hot cocoa,stumptown coffee
+9389	
+9405	curry,free byob b4 6pm,happy hour specials,lunch specials!,sticky rice
+9419	bigsalads,israeli
+9431	brunch,cafe,coffee,wifi
+9436	aguila beer from colombia,arepas,arroz con pollo,bananas fausto,bandeja paisa,bogota latin bistro,botero paintings.,brazilian caipirinhas,brunch,check them out on facebook too,chelsea the bartender,child(ren) friendly,classic margaritas,coconut margaritas,colombian aguardiente,colombiana la nuestra soda,corn on the cob,dominican mangu brunch,enclosed patio,excellent variety & price point,friendly staff,frozen margaritas,fruit flavored mojitos,gay friendly,ginger margaritas,great empanadas,great service,happy hour,imperial beer from costa rica,kitchen open till 1 am fri & sat,late night hours,latin american brunch,latin brunch,latin cocktails,latin music,margaritas,mayor gets a promo,mojito bar,morcilla,near brooklyn museum,near southpaw,opentable reservations,outdoor patio,owners are always present,party space,photo gallery,quesadillas,ron medellin,sauza margaritas,spanish spoken here,specials really are special,strawberry margaritas,sugary mojitos,they \tweet\ fun promos,they are on foodspotting.com,they got heat in here.,this place is very festive,tona beer from nicaragua,well run,yummy cubano sandwiches
+9448	
+9450	cannoli
+9460	no reservations,sake',sashimi,sushi,zagat-rated
+9463	coffee,tea
+9464	ramen,sashimi,sushi,udon
+9468	lobster,lobsterroll,oysters
+9473	
+9474	
+9476	
+9495	breakfast
+9496	
+9497	food,restaurant,social dining
+9498	dessert,italian restaurant
+9526	foods,hotdog,restaurant
+9558	cocktails,cupcakes,prix fixe,sake,soft serve,soy,wsj
+9561	coffee,starbucks
+9602	airport,brooklyn,brooklyn museum,brunch,cheryl's global soul,coffee shop,dog run,gallery,park,soul food,theater
+9611	coffee,starbucks
+9615	coffee shop,douchebag,fair trade,organic,stir brew
+9620	drink,food,restaurant,steakhouse,steaks
+9643	
+9652	art,classes,clover,coffee,coffee cupping,espresso,guest espresso,latte,merchandise,pastries,rocket espresso machine,synesso,table seating,tea,thiswasadupe
+9664	byob,calzone,carroll gardens,douchebag,douchebags,gossip girl,italian,outdoor,restaurant
+9684	bakery,bubble tea,desserts,pastries
+9707	brunch,cacio e pepe,restaurant
+9712	restaurant
+9718	
+9719	park,pizza
+9720	cocktails,organic,romantic
+9726	
+9727	beer,frat boy,girls,neighbourhood bar,wings
+9743	knot,pasta,people,pepperoni,pizza,salad,slice,trendy
+9762	cafe,chocolate,hot chocolate,tea
+9772	famous joe's,fresh mozzerella,open late,pizza,slice,slices,spider-man
+9780	bakery,donuts,doughnuts,egg cream,egg sandwiches,ice cream,pastries
+9792	bar,deep dish,gluten free,multigrain,open late,pizza,snack hours
+9793	cheap,dinks,food,free beer,polish,polish food,restaurant,zywiec
+9794	cozy,greenpoint,pierogies,polish,restaurant
+9817	cuban,cuban restaurant
+9821	24 hours,breakfast,cheese,diner,dinner,lunch
+9854	good for groups
+9870	 great wine and sake selection. specialty drinks are created in house and updated seasonally,bar,dumplings,sake,teriyaki,tokyo chic decor
+9892	gym,pizza
+9932	dim sum
+9934	brunch,jam,omelet,waffles
+9945	barbecue,bbq,beer,bourbon,cider,pork,ribs,sausage
+9953	cafe,coffee,free wifi,tube sandwiches
+9962	byob,garden
+10026	
+10032	24 hours in astoria,american cuisine,astoria,best ambiance, astoria,best beer list,best beet list,best brunch in astoria,best late night dining,best wine list,brunch,date spot,industry spot,wine spectator wine list
+10054	coffee
+10057	cafeteria,coffee,cosmopolitan,country living,desserts,employee cafe,esquire,flatbread,food,food network magazine,good housekeeping,grill,hearst,hearst corporation,hearst tower,house beautiful,light & delish,non-fat frozen yogurt,o the oprah magazine,pizza,popular mechanics,redbook,rotating action station,salad bar,sandwich,seventeen,sushi,the daily green,town & country
+10072	
+10073	 douchebag,bravo,cheesecake,desserts,luckmag,zagat,zagat-rated
+10074	brunch,unlimited mimosa brunch
+10099	
+10160	
+10173	beer,bistro,date,delivery,dining,dinner,french,garden,group,outdoor,party,restaurant,romantic,wine
+10192	awesome bartenders,bravo,gallery art,ice cream,sociality,top chef,zagat-rated
+10197	
+10211	beer,margaritas,mexican food,pool table,stupid sauce,tacos
+10214	
+10224	coffee,tempat ngopi enak
+10225	sandwiches,spicy
+10235	cafe,hot chocolate,laptop-friendly
+10256	absinthe,bistro,brunch,cocktails,mussels,omelets,presion,steak and eggs
+10261	coffee,fresh grind
+10282	blt,brunch,mac and cheese,marco & pepe
+10289	pizza,pizzeria
+10302	chicken and waffles,cocktails,omelet,outdoor seating,pre-show
+10324	 douchebag,coffee,creative,free wifi,holiday hero badge,locals,socialite,tea
+10379	eco-friendly,gluten-free,green,organic,organic cocktails,sustainable,vegan,vegetarian
+10383	alsatian,beer,bistro
+10401	beer,dirty beer taps cept the sam seasonal,food,happy hour,suprisingly good pizza
+10436	bravo,douchebag,food,italian,pizza,socialite
+10489	bao,good_mark,kau fu,scallion pancakes,soup dumplings,xiao long bao
+10543	burritos,chile verde,margaritas,mexican food,park slope,tacos
+10551	bar,filipino,restaurant
+10559	gluten free,lunch special,vegan friendly,vegetarian friendly
+10604	barbecue,bbq,bbq pitmaster,birthday parties,bluebell icecream,collard greens,college,corn pudding,corporate event space,corporate parties,country music,cupcake,dessert,event space,green bean casserole,holiday parties,lone star beer,longhorns football,mac & cheese,redskins bar,southern
+10635	food
+10639	best turkey sandwich,coffe,coffe shop,coffee,coffee shop
+10643	chelsea market,dessert,food,ice cream,lunch,milk,milk shakes,yogurt
+10680	beer,cocktails
+10690	beer,burgers,onion rings
+10694	college,frat boys,sangria
+10716	social dining
+10719	
+10756	burger,sushi
+10760	social dining
+10761	free wifi
+10765	brunch,brunch spots,cava,ceviche,cocktails,dinner,freestyle,groups,latino,paella,spanish,tapas
+10777	frozen yogurt
+10782	
+10784	bbq,crunk,food,fried chicken,nyc,soul food,southern,tastiness
+10785	opentable,steakhouse
+10786	hotel restaurant
+10798	crayon art,lunch,small dining room,vegan,vegetarian
+10799	vegetarian
+10800	brunch,burger,cocktails,food,fried chicken,friendly service,happy hour,lunch,trendy
+10814	sushi
+10815	empanadas,fun atmosphere,good food,overpriced
+10818	breakfast,brunch,coffee,noodles,sandwiches
+10824	blogger hangout,cupcake,cupcakes,nautical,oysters,raw bar,restaurant,seafood,soho,sushi,sushi restaurant,tech hangout
+10835	cheap,students,thai
+10853	cool bartenders,small
+10873	bbq,bon appetit mag,bravo,cupcake,foodie,hot dog,pizza,top chef
+10897	bbq,korean
+10904	burgers,jukebox,outdoor seating,sports
+10935	art galleries,cave,food,italian,wine
+10947	burgers,places to see in nyc
+10965	a-list,bar seating,black tea soft serve ice cream,david chang,dessert,food & wine best new chef,fried chicken,homemade soda,kimchi,large-format,noodles,pork,pork belly,pork buns,prix fixe,ramen,slushies,soft serve ice cream,steamed buns,wheelchair access,zagat-rated
+10966	2 michelin stars,david chang,michelin star,raw,tasting menu
+10969	
+11006	bistro,french
+11029	restaurant
+11055	japanese,seafood,sushi
+11056	balls,hamburger,hipsters,no reservations,salad,vegan,vegetarian,veggie-friendly
+11060	 better service, eatry,bar,good food
+11100	bar,breakfast,brunch,dinner,donut,lunch,photobooth,restaurant,work
+11108	chinese,dim sum,diner,fried chicken,karaoke bar,record shop,sushi,vegetarian,wonton soup
+11112	brunch,burgers,fried chicken,fried pickles,mac & cheese,milkshakes,southern,stumptown,tater heaven,tater tots
+11114	art,brunch,charcuterie,daniel boulud,douchebag,french restaurant
+11125	forest hills,mexican food
+11129	
+11130	michelin star
+11134	bakery,cafe,sweets
+11137	bento box,sake,sushi
+11147	bar,brunch,diana ross,drag queens,menudo
+11166	lamb with cumin,nose-dripping spicy,sichuan food,spicy sesame noodles,spicy sichuan szechuan chinese food,wo yao han ladt
+11171	
+11173	barbeque,bbq,bravo,cupcake,douchebag,people hot spot badge,people vip,timeoutny,top chef,vip,wsj lunch box,zagat,zagat-rated
+11178	drinks,zagat-rated
+11182	coffee,espresso,pastries
+11192	atm,bar,brick oven pizza,deserts,italian,lots of tv's,pizza smell,soccer,sports,toby's cheap beer
+11193	
+11214	bar,bedford,bloody marys,brunch,mediterranean restaurant,restaurant,turkish restaurant,will tower,williamsburg
+11238	indonesian
+11252	clover,coffee,cold brewed ice coffee,free wifi,garden,good_mark,hipsters,outdoor seating
+11255	breakfast,happy hour,timeoutny,wifi,wine
+11259	backyard,beer,biscuits,brooklyn,farming,firepit,fried chicken,hipsters,magazine,nyt,pizza,trendy,wood paneling,zagat-rated
+11318	
+11355	cakes,coffee,cookies,good_mark,lunch
+11362	# bon appetit mag,beer,bon apettit,bon appetit mag,boroughs,brooklyn,cafetaria,douchbags,food,foodie,frat boy,good_mark,luckymag,manhattan,new lunch spots,open late,pizza,restaurant,socialite,take out,wsj lunch box,wsj lunchbox,wsj urban adventurer,zagat,zagat-rated
+11372	amanda reade sturgeon,brunch,contemporary,john fraser,lunch,michelin,monday night veg,new american,private dining,restaurant week,seasonal,sherry,sunday suppa,tasting menu,thrillist,upper west side,uws,vegetarian
+11446	barbecue,barbeque,bbq,japanese,spinach
+11485	asian,dessert,diner,dog park\/dog run,fake delicious chicken,karaoke bar,record shop,ski area,social dining,soy,vegan,vegetarian,vegetarians,veggies
+11486	bakery,bubble tea,chinatown,chinese,dessert,fayda,food,manhattan
+11536	awesome chicken paillard!,bread,coffee
+11622	marc forgione,michelin star
+11635	bloody marys,brunch
+11636	bar,burgers,folklore,food,haunted,pub,sandwiches
+11637	24 hours,bowling alley,breakfast for dinner,diner,dog run,fried chicken,gallery,karaoke bar,play ground,record shop,ski area,vegetarian\/vegan
+11641	latin american,tapas
+11655	bakery,cookies,douchbag,douchbags,karaoke,levain bakery,music,nymag,the best cookies
+11660	chinese, dim sum, peruvian,wheelchair access
+11664	50's music,burger,burgers,diner,forest hills,free toppings,french fries,jukebox,malts,milk shake,milkshakes,onion rings,shakes
+11678	
+11681	coffee,cozy,quite possibly the best coffee in nyc.  very consistent, and always fresh
+11682	choco chips,douchebag,douchebags,gelato,gossipgirl,ice cream,popular,trendy,trendys
+11685	coffee,crepes,french food
+11717	board games,burgers,chipotle mayo,darts,deep fried mac n cheese,frat boy,patio,pool table,shuffle board
+11733	burritos,hipsters,late night,mexican,tacos
+11734	houston street,lower east side,manhattan,restaurant,tapas
+11764	beer,burgers,onion rings
+11775	comfy,delicious,pat lafrieda,rustic
+11790	local food
+11792	bacon edamame,bakery,beard papa,bento,ginger squid,green tea ice,green tea ice cream,japanese food,onigiri,red bean bun,sushi
+11802	
+11806	zagat rated
+11846	bedford ave,brunch,class,damn tasty food,food,greenpoint,heath ledger,hipsters,oysters,williamsburg,wine bar
+11855	paella,socarat,tapas,wine
+11856	bacon peanut brittle,bar,brunch,food,frank bruni,fried chicken,fried chicken joints,southern,the new york times
+11860	a hot date,biscotti,breakfast,brunch,chai latte,coffee,cupcakes,hell's kitchen cafe and bakery,illy coffee,muffins,no laptops,oatmeal,over 50 kinds of biscotti,risotto,scones,soups,tea,vegan, sugar and wheat free
+11872	coffee,coffee shop,single-origin french press
+11881	coffee,hipsters,hot chocolate,internet,wifi
+11882	bar scene,big windows,good wine,modern design,open space
+11884	+happy hour,biodynamic wine,brunch,garden,local food,nightlife,organic,restaurant,seasonal,vinyl
+11902	bravo,coffee shop,cupcake,cupcakes,top chef,trendy,trendys
+11907	baguettes,brunch,coffee,cozy,french,lunch,sandwiches,tea house,upstairs dining room
+11909	burnt ends,byob,choice eats,mario batali,mozz sandwich,porchetta sandwich,socialite
+11913	brunch,cash only,chinese,curry,thai,wings
+11930	burger,burgers,cheese fries,frozen custard,pat lafrieda,shake shack,shakes,timeoutny,upper west side,uws
+11934	coffee,starbucks
+11942	bar,brunch,italian,lunch,restaurant,wine
+11945	brunch,east village,latin,restaurant
+11954	baked goods,best poached egg breakfast and raspberry iced tea!,brunch,coffee,counter service,sandwiches
+11956	craft beer & wine,pizza,wood fire oven
+11965	coffee,farmer's cookies,really good coffee (espresso) and swedish snacks.,swedish
+11987	brooklyn,choice pastries,coffee,coffee shop,dekalb avenue,doughnuts,espresso bar,fort greene,la colombe,sandwiches,wifi
+11989	bar,bellini,breakfast,financial district,gossip girl,gossipgirl,internet week,internet week 2010,lunch,pizza,socialite,socialities,top chef,webby 2010,wsj,wsj banker,zagat-rated
+11990	horchata,jarritos,mexican,soho,tacos,yucca fries
+11998	banh mi,free wifi
+12009	
+12010	brunch,italian,west village
+12018	always play good music,breakfast,brunch,coffee shop,cuban sandwich,great ambience,laptop hangout,mothers group meet-ups,neighborhood bar,oysters,restaurant,soups are good,trivia night,wi-fi,writers,yum
+12028	coffee,cupcake,douchebag,free internet,hipsters,muffins,stumptown,tech hangout,wifi
+12034	breakfast,diner,lunch
+12037	 village voice,choice eats,village voice eats
+12042	barbecue,bbq,bros,frat boys,karaoke,pbr,sports fans,tlc summer,ty ku
+12047	basque,tapas
+12049	cocktails,date night,,wine
+12052	24 hours,coffee,espresso,falafel,gyro,kebab,lemonade,wifi
+12053	bar,beer,brobible,happy hour,uga fans,wings
+12055	brunch,cocktails,wine
+12067	cafe,coffee,cupcakes,duplicate,espresso,sandwiches,work
+12071	vegetarian
+12090	arepas,brooklyn,choice eats,gluten-free,good eats,good_mark,snack,zagat-rated
+12094	balluchis,chicken tikka masala,indian food
+12101	fucking delicious,italian food,meat lasagna,over priced,restaurant
+12112	brunch
+12113	pad thai,thai food
+12118	delicious steak
+12119	bagels,coffee,day-old baked goods,tea
+12121	al pastor,byob,mexican food,tacos,tortas
+12134	bacon beans,bar,best guacamole on earth,brooklyn,brunch,douchebag,douchebags,gallery,gossip girl,gym,ifc,ifc (independent film channel),la superior,mexican,park,pescado smells,pizza,playground,tacos,theater,top chef
+12139	brunch,fortgreene,mexican,plantains,tacos,vegetarian friendly
+12142	bagels,breakfast,brooklyn's best bagels,coffee,juice,soda,tea
+12149	bravo
+12150	brunch,cupcakes,dessert,quiche,scone,sexy,wine,wine bar
+12159	bakery,banh mi,clued,jewelry,sandwiches,vietnamese sandwiches
+12164	
+12190	
+12196	coffee
+12208	bahn mi,bubble tea,grilled pork sandwich,park slope,vietnamese
+12214	lemonade,salad,wraps
+12215	breakfast,breakfastallday,brunch,coffee,dessert,espresso,food,lunch
+12222	banksy,beer,burritos,byob,horchata,mexican,soho,tacos,yucca fries
+12231	buffet,cheap,food,korean,late night,lunch,noodle bar,restaurant,tattoo,zen garden
+12232	pizza
+12246	bagels,bakery,sandwiches,subs
+12252	apples store,askmen,boutique,bravo,breakfast,brunch,celebrities,cupcakes,dessert,dinner,foodie,lunchbox,top chef
+12268	asian,asian food,bar,beer,club,cocktail,cool scene,dancing,daning,drinks,food,hoboken,hudson,hudson river,martini,martinis,movie theater,movietheater,new jersey,new yersey,new york city,nightclub,nightlife,nj,nyc,nyc style,photo booth,photobooth,playground,restaurant,sushi,sushi restaurant,trendy,upscale,wine
+12269	brooklyn
+12272	beer,burgers,hamburgers,jackson hole
+12277	american,submarine sandwich,subs
+12281	chelsea,chinese food,manhattan,restaurant,tea,vegetarian
+12282	coffee,gourmet groceries,juice bar,kombucha,organic,pricey groceries,salad bar,sandwiches
+12284	banh mi,pork,sandwich,vietnamese,vietnamese sandwiches
+12307	
+12322	
+12331	vegan
+12343	rice bowls
+12345	artists,chelsea,coffee,espresso,gallery owners,hipsters,latteart,locals,yuppies
+12347	24 hours,brunch,diner,east village
+12368	
+12374	coffee,deli,lunch,sandwiches,smoothies,soup
+12386	food,margaritas,mexican,restaurant
+12412	spicy sauce,sushi,washington irving's house
+12432	bbq,beer,frozen drinks,giant wings,ty ku,village
+12433	austrian,german,sp?tzle,zirbenz
+12435	exotic drinks,hospitality,lychee martini,sushi
+12450	bowties,brooklyn,brunch,cocktails,cute waiters,dinner,hipster,late night,outdoor seating,oysters,williamsburg
+12458	bagels,brooklyn,douchebag
+12464	
+12468	bisque,clam chowder,fish market,lobster,lunch,seafood,seaweed salad,sushi,take-out
+12476	+cocktails,brussel spouts!,lebanese,mediterranean,middle eastern,modern design,tapas,unique white wine,zagat-rated
+12493	amex,cash only,cocktails made with care,organic steak,pretzels,simon's favorites,sixpoint,spaetzle,spargel,stumptown,underberg
+12494	brunch,italian,mimosas
+12495	$11 -3 course pre-fix lunch!,brunch,home made grilled flat bread pizza,italian,late night happy hour,mimosas,unlimited mimosas
+12496	coffee,delicious coffee.  and they have the best chocolate chip cookies in nyc.  period,granola
+12497	bolognese,comfort food,gnocchi,italian,pasta,restaurant,rustic,simple
+12500	bagels,coffee,lard bread
+12508	banh mi,choice eats,com viet nam,goi cuon,pho,socialite,vietnamese
+12510	bar,zagat-rated
+12542	starbucks
+12543	coffee,coffee shop,tea
+12552	aina
+12556	brunch,c train,food,fort greene farmers market,fort greene park,g train,garden,lamb burger,mediterranean,moroccan
+12568	cupcake,cupcakes
+12575	brunch,organic breakfast
+12580	italian
+12584	bagels,coffee,coffee ice cubes,espresso,pastries
+12598	
+12608	
+12612	coffee,douchebag,local,localbiz,owner operated,tea,wifi
+12617	beer,burger,delicious,ice cream,organic
+12621	brunch,candied nuts,duck meatloaf,fried chicken,kids ok,nyc beer,pancakes,patio,pecan pie sundae,pork chop,sixpoint,vegetarian-friendly,wine
+12625	brooklyn,fries,grill,jembatan kali krasak yogyakarta,padang,pizza,pizza place,sandwiches,socialite
+12636	beer,breakfast,cobble hill,coffee,dinner,eco,green,grits,open everyday,outdoor seating,pickles,restaurant,sandwiches,wine
+12641	brunch,delicious,neighborhood,organic,pancakes,restaurant,students,wsj lunch box,yummy
+12653	chinese food,soup dumplings
+12700	beer,bobby flay throwdown,breakfast,burgers,chicken,chipotle ranch,coffee,food,hotdogs,iced tea,lemonade,macaroni and cheese,milkshakes,salads,sloppy joe
+12719	astoria,coffee,ditmars,iced coffee,pastries,queens
+12735	brunch,italian,les,lower east side,pasta,restaurant,wine
+12741	2 michelin stars,chuck bass,gossipgirl,michelin star
+12753	
+12763	foodie,italian,pasta,restaurant,scott conant
+12764	celebrities,ice cream,not wheelchair accessible,vegan,vegan ice cream
+12773	
+12790	burrito,cart,crack sauce,delicious,food,food cart,mad. sq. eats.,mexican,tacos,vendy,yummy
+12792	beer,cafe,financial district,inwood,trivia wednesdays,wifi
+12793	bar,sip, upper west side, manhattan
+12796	noodles
+12799	zagat-rated
+12818	
+12826	bagels,coffee,free wifi,sandwiches
+12833	banh mi,bbq,best sandwiches!,cambodian,cash only,grilled corn,khmer,lunch,num pang sandwich shop,sandwich
+12862	brunch,chelsea market,gluten-free,lunch
+12867	curry,design standout,lunch special,pad thai,peanut dressing,thai,vegetarian friendly,zagat-rated
+12875	brazilian,cocktails,happy hour
+12896	delicious cocktails,green restaurant,health food,local produce,michelin star,such,sustainable
+12898	happy hour,vegan friendly,wine bar
+12903	brazilian coffee,clover,coffee,cookies,fancy,flat white,hipsters,kaffe 1668,lots of people with their laptops,single-origin espresso,stroller nazi,tea,trust fund kids,wifi,yuppie
+12906	ramen
+12908	
+12910	cheese,dairy,deli,italian,sandwiches
+12913	
+12914	burritos,cheap,delicious,mexican
+12927	bagels,breakfast,coffee,sandwiches
+12964	astoria,buffalo wings,burgers,fries,shakes,veggie burgers
+12989	best pizza in brooklyn,italian,off the beaten path
+12991	health food,juice,sandwiches,smoothies,snacks,soup,vegan,vegetarian
+12996	baguette,bakery,bread,breakfast,brunch,cafe,caf®¶,coffee,lunch,organic,pastries,retail,salads,vegan,vegetarian
+13015	bar\/table games,beer,douchebag,douchebags,sports bar,tv,wings
+13016	best burgers in nyc,best burgers in nyc, a quest for the best burger,best burgers in nyc, a quest for the best burger,best burger,brunch,food,half bottle,marc,pam,restaurant,socialite,wine,wine list,yummy
+13017	cafe,coffee,wifi
+13028	do it yourself,fro yo,frozen yogurt
+13033	
+13047	blackbook,mixologists,russian standard vodka,zagat
+13070	
+13073	coffee,starbucks,wifi
+13074	lobster,raw bar,seafood,soho
+13093	
+13096	
+13101	brooklyn,cafe,coffee,coffee shop,douchebag,stumptown
+13106	diner,donuts
+13107	calzone,italian food,pasta,pizza,ty ku
+13108	'za!,ice cream,italian,pizza,sicilian,solo
+13115	bagels,coffee,doutchbag,dutchbag,hipster,muffins,smoothies
+13119	amazing bread,bourekas,byob,druze,falafel,mediterranean
+13131	bubble tea,coffee,good_mark,hot cider,tea,teahouse
+13141	brunch,coffee,espresso,restaurant,wifi
+13145	almond chicken curry,cellar bar,chilled cucumber coconut soup,cumin roasted potatoes,five herb vegetable spring rolls,grilled sirloin,honey chicken wings,lamb sliders,lobster sliders,mezzanine dining,pan-seared cod,paneer and potato croquettes,penang curry chicken spring rolls,roasted lemongrass chicken,saut®¶ed asian greens and mushrooms,special events,specialty cocktails,steamed jasmine rice,sweet potato fries,thai vegetable rice \u201ckow pat\u201d,vegetable samosa sticks,wok stir-fried maya prawns,wok-fried long beans and crispy shallots
+13146	
+13152	beer,cupcake,pizza,sandwiches,wine,wraps
+13174	bar,douchebags,free wifi,great beers,great burger
+13176	cafe,dinner,lunch,tea,tea house
+13209	
+13212	coffee,lunch spot,wifi
+13227	croissants,stumptown
+13231	brooklyn,deli,duplicate category,fried eggplant,italian stalion,meat,roast beef,sandwiches,subs
+13232	drink,eat,soup,tacos
+13233	cafe,cappuccino,coffee,douchebag,espresso
+13245	bon appetit mag,chick-fil-a sauce,chicken,fast food,lemonaide,nuggets,nymag,nyu,sandwich,waffle fries
+13248	fries,hamburgers,milkshakes,turkey burgers
+13261	9th street espresso,americano,cafe,cappuccino,coffee,coffee shop,espresso,hot chocolate,iced coffee,iced tea,intelligentsia,intelligentsia coffee,latte,macchiato,ninth street espresso,tea
+13263	aeropress,baristas,coffee,counter culture,east village,espresso,local milk,pour over,synesso
+13264	attractive waitstaff,backyard,meats,private room,woodburning stove
+13283	
+13307	sangria,tapas,wine
+13308	quick lunch,salads,sandwich
+13315	wings
+13337	bakery,chinese,cupcake
+13341	gluten free,italian restaurant,people-watching,romantic
+13354	bagels
+13359	chicken ramen,kimchi,ramen noodles
+13363	sushi
+13391	classic cocktails,meatloaf,meatloaf sandwich,prohibition chic
+13394	bbq,margaritas,ty ku
+13396	best peanut butter chocolate brownies ever,fruit&veggies,green juices,groceries,health food,sandwiches,stoned employees,wraps
+13406	deli,lunch,salad,salad bar,sandwiches,soup
+13407	italian
+13422	brunch,grits,margaritas,mexican,tex-mex
+13424	80's,authentic,garden,heavy metal,mexican,no guac,outdoor seating,patio,taco,tecate or byob,zagat-rated
+13446	
+13447	bagged coffee,boutique,bravo,coffee,coffee shop,espresso,good_mark,hot chocolate,merchandise
+13457	best bagel, cream cheese, and tomato sandwich ever,cafe cafe,chicken milanese sandwiches,coffee,coffee shop,expensive smoothies,great latte,marcus
+13458	brooklyn,children,coffee,douchebag,muffiny,parents,trendy
+13459	24 hours,bagels,bialys,coffee,cookies,fresh bagels
+13463	bar,barbeque,bbq,douche bag,frat,outdoor seating,restaurant,sports bar,ty ku,wings
+13467	free sake,free wine,social dining,sushi
+13485	
+13519	al fresco,beer,burgers,chicken,dessert,fish & chips,french fries,hell's kitchen,ice-cream,milkshakes,omelette,onion rings,pat lafrieda,salad,shakes,shrimp,soup,sushi,zagat rated,zagat-rated
+13521	brunch,dinner,italian,wine
+13525	bagels,breakfast,coffee,fresh,landmark,tea
+13539	cheap,italian
+13547	bakery,coffee,vegan
+13550	
+13561	
+13570	dessert,desserts,top chef
+13589	sushi,with a hot date
+13603	cafe,coffee,cookies,sandwiches
+13605	
+13607	beer,coffee,croissant,madeleine,pastry,sake,salad,sandwich,wine
+13611	korean,restaurant,sushi,teriyaki
+13621	bar,best granola,brunch,celebrity spotting,dinner,drinks,freeway eyewear,housewares,jacques mag,mariage fr®®res tea,original 1963 faema espresso machine,outdoor benches,twee,wool and the gang
+13624	bakery,coffee,dessert,espresso,french,quiche,sandwich,zagat
+13629	curry,japanese,tempura,udon
+13630	cafe,coffee,movies,pastries,starbucks,wi-fi
+13631	adorable,date,dessert,ice cream,vegan
+13661	dumplings
+13675	buffet,byob,cheap,indian
+13682	\bakeries\ \french bakery\ \french bakery in new york\,cafe,croissants,dinner after 6pm,french bakery
+13683	authentic,fresh,raw fish
+13687	wifi
+13690	burger,diet,healthy,low calories,protein,smoothies
+13694	
+13733	cocktails,empenadas,enchelada,great deals,latin,margarita,mojitos,outside dining,taco
+13740	brunch,jalapeno margarita,place to be,sangria,tapas,white sangria
+13745	bakery,cafe,coffee,croissants,desserts,french,french macarons,macaron,macaroon,macaroons,madeleine,pastries,pastry,patisserie,tea
+13746	bakery,mexican fusion
+13750	# # just dessert,# # music box theatre,bakery,bbq,bravo,coffee,cupcake,cupcake connoiseur,cupcakes,dessert,just dessert,music box theatre,over-rated,ski bum,tlc
+13812	belgian,belgian beer,moules et frites,petite abeille,restaurant
+13815	food,smoothies
+13826	coffee,starbucks
+13836	bon appetit mag,bravo,park,pizza,socialite
+13844	pizza
+13872	pomegranate mojito
+13890	banh mi,bbq chicken,counter,pho,pork,sandwiches,slow but tasty,spicy,sweet coffee,veg,vietnamese
+13897	coffee,starbucks
+13898	
+13904	chinese,noodle shop
+13915	burgers,chelsea,dry,fries,mango-coconut shakes,manhattan,onion rings,overcooked,sauces,sweet potato fries
+13921	baguette,baker's dozen,bakery,bread,breakfast,brunch,cafe,coffee,cupcake,cupcake bakery,lunch,organic,pastries,retail,salads,vegan,vegetarian
+13923	cocktails,date,expensive wine,good food,historic,romantic,wine bar,wine, candles,date
+13924	cocktails,good times,tea
+13927	bakery,cafe,wifi
+13928	bakery,buddy,cake,cake boss,cakes,carlo,carlo's bakery,cookies,cupcake,cupcakes,food,hoboken,reality show,television,the cake boss,tito,tlc,zagat,zagat-rated
+13929	coffee,dessert,lunch,macaron,macarons,salad,sandwiches,soup
+13983	coffee
+13984	cash only,coffee,cookie,dogs on the bench,espresso,hipsters,pastry,soft drinks,stumptown,tea,wifi
+13986	baguette,baker's dozen,bakery,breads,breakfast,brunch,cafe,coffee,cupcake,cupcake bakery,food,lunch,organic,pasties,pastries,retail,salads,vegan,vegetarian
+13996	
+14015	
+14058	hiphostessnyc top pick
+14064	happy hour
+14066	mexican food
+14083	coffee,restaurant
+14086	chicken,fried chicken,korean,korean fried chicken
+14102	breakfast,cake,coffee,cookies,cupcakes,gelato,gifts,iced coffee,il laboratorio,stumptown,whoopie pies
+14113	brownies,chocolate,coffee,cupcakes,dessert,ice cream,tea,wine,world's best brownies
+14117	good service,jazz band,lunch special,thai
+14119	filipino
+14143	japanese,sake,sushi
+14148	coffee,coffee, breakfast wraps
+14165	
+14183	babka,cake,cheesecake,coffee,cupcake,cupcakes,dessert,fohi,gelato,lattes,muffins,pies
+14188	beer,brunch,burgers,cockroaches,fries,wine
+14189	chips,margaritas,tacos
+14196	coffee,coffee shop,espresso,free music,free wifi,rooftop patio,sandwiches & salads
+14197	carrot cake,coffee,free wifi,tiramisu
+14218	curry,park slope,ramen,restaurant
+14228	brunch,college,fajitas,frat,margaritas,mexican,quesadillas,tequila
+14250	chelsea market,coffee,espresso
+14253	
+14254	
+14263	zagat-rated
+14265	belgian beers,belgian food,moules et frites
+14327	brooklyn,coffee,coffee shop,douchebag,douchebags,food,restaurant,starbucks
+14334	ice cream
+14354	bim bim bop,bodega,coffee,deli,lunch,pasta,salad bar,sandwiches,sushi
+14355	breakfast,coffee,coffee bar,deli,fresh fruit,salad bar,sandwich,sushi,udon
+14365	banh mi,coffee,deli,sandwiches,vietnamese
+14387	eurotrash,italian,nolita,pizza
+14390	indian food
+14435	bar,beer,brunch,burger,drink specials,food poisoning,good_mark,happy hour,hipsters,huevos rancheros,tacos
+14448	caprese salad,cocktails,corner location,free wifi,french door windows,great bartenders,great food,outside bench,pasta,windows
+14456	deli,delivery,take-out
+14457	coffee,lunch,panini
+14469	japanese food,sushi,teriyaki
+14472	big portions!,yummy vietnamese food
+14487	delivery,sushi
+14494	coffee,italian coffee,soho,starbucks
+14497	bakery,brownies,butterscotch bars,cookies,cupcakes,food wagon,oatmeal cookie,oatmeal jammy cookie
+14501	breakfast,brooklyn museum,cafe,crepes,french
+14532	24 hour,barbeque,bart,bbq,k-town,korean,tourist
+14541	cuban,live music
+14549	american
+14571	divine place--terrific prix fix lunch, lovely peaceful place for breakfast, \where the elite meet\, and i love the bar!
+14582	cash only,cheap sake,noodles,rice dishes
+14594	bar,excellent steak,famous stoli doli,steak,wine
+14628	bus stop
+14652	dinner,european,food,live music,restaurant,serbian
+14669	burgers,calamari,diner,douchebag,douchebags,food,frat boys,french fries,fried calamari,fries,georgia,georgia peach,grilled chicken,peach,peach diner,queens blvd,queens boulevard,the georgia,the georgia peach diner,the peach,the peach diner
+14674	coffee,outdoor seating,panini,pastries,wine
+14713	ironchef,mehta,tapas,wine
+14714	cheap,chinese,hand pulled noodle soup
+14730	
+14749	$4 bahn mi,banh mi,good_mark,restaurant, vietnamese,sandwich,vietnamese
+14790	crepe
+14801	bon chon,fried chicken,fried chicken joint,kim bob,korean,wings,zagat-rated
+14828	fromer dive bar,hot hostess,steak
+14833	
+14854	bakery,bubble tea,chinese
+14855	bagels,coffee
+14859	coffee,panini,pizza,salad
+14860	park slope,thai food
+14867	salad
+14889	vegan,vegetarian
+14903	brooklyn,brunch,coffee,wifi
+14905	babaganoush,baclava,cacik,ezme,hummus,mezze,turkish
+14914	indian food,restaurant
+14923	french,gayborhood,restaurant,zagat-rated
+14924	pizza,pizzeria
+14927	bar,bon chon,bonchon,closed,kimchi pancakes,korean,korean fried chicken,soju,sushi,wings
+14945	korean-chinese,noodles
+14950	bistro,brasserie,steak
+14952	mediterranean restaurant,restaurant,turkish
+14969	barbeque,bbq,dallas,dallas bbq,dining,food,new york,new york city,times square
+14970	baked goods,brunch,cakes,coffee,cookies,cupcakes,pies,scones
+14971	falafel,inexpensive,mediterranean,pita,pitas,vegan,vegetarian
+14990	coffee
+14996	
+15000	cuban restaurant
+15009	cafe,chocolate,coffee,espresso,swedish
+15010	amazing french toast,breakfast,burger conquest,chicken soup,delicious burgers!!!
+15015	
+15024	drinks,food,frat boy,gossip girl,manhattan,new york,restaurant,socialite,steak,sushi,top chef,trendy,trendys,upper east side,zagat,zagat-rated
+15053	
+15061	bravo,brunch,cocktails,dinner,ethnic,food,fun times,good eats,lunch,lunchbox,wsj,wsj lunchbox,wsjlunchbox,zagat-rated
+15071	cafe,coffee
+15083	cafe,cafe shop
+15085	coffee,douchbags
+15087	cheesecake,cheesecakes,ny cheesecake,the best
+15139	cheap,chinatown,chinese food,dumplings,good_mark,recommended,scallion pancake sandwiches,vegetarian
+15146	douhbage, douchbages,nymag,pizza,timeoutny
+15148	breakfast,coffee,deli,lunch
+15153	japanese,noodles,soba,yakitori
+15176	coffee
+15179	bakery,cafe,coffee,dessert,latte,panini,sushi
+15189	chinese,dumplings
+15193	delicious,fast food,fried chicken,restaurant,vegan,vegan, fast food, williamsburg, brooklyn
+15209	
+15235	
+15245	hamburgers,sandwiches
+15246	deliciousness,fresh bread
+15256	bed bath & beyond,burritos,chelsea,coffee,coffee shop,food,lunch,manhattan,new york,ny,nyc,online order,pastry,sandwiches,toss salad
+15258	elissa d. we're coming for mayor!!,fro yo,gossipgirl,pinkberry,possible location of that one gossip girl scene,yogurt
+15260	
+15261	cafe,coffee
+15302	food
+15313	$3 well drink tuesdays,bar,bbq,beer,big buck hunter,brother jimmy's bbq,college,karaoke tuesdays,pbr,southern food,turtle bay grill & lounge
+15314	
+15323	basement location,classic west village,cocktails,french chef,garden,white tin ceiling
+15341	heros,massive,pasta,reuben,sandwiches,subs
+15351	a la carte,cheap eats,chinese,dim sum all day,dimsum,dinner,egg rolls,lunch crowd,nom wah,soup buns,tea
+15355	
+15368	a bit douchey,brunch,cafe,coffee,french,garden,new age music
+15380	
+15412	breakfast,diner,restaurant
+15420	mexican food,restaurant
+15430	astoria,coffee,iced coffee
+15447	coffee,hoboken,zagat,zagat-rated
+15456	crepes,croque madame,french food
+15457	timeoutny
+15463	bubble tea,table seating,tea
+15475	food,margaritas,mexican food,organic,party,tequila
+15487	ice cream,upper west side
+15501	italian,outside seating,park slope
+15502	back patio,brunch,dinner,get fresh,grass fed,healthy,organic,outside seating,paleo,stumptown,tasty
+15503	 gossip girl, socialite,brooklyn,burgers,douchebag,fried chicken,fried chicken joint,open late
+15506	good for late nights,kimchi,korean food,soju,spam
+15527	zagat-rated
+15529	60's,diner,milkshakes,photobooth,tator tots
+15535	food,jamba,jamba juice?,natural juices,smoothies
+15537	
+15541	beer,beer bongs,big screen tv's,brews,burgers,cask ale,craft beer,drink specials,happy hour,liquor,lounge area,music,world cup
+15550	american restaurants,american restaurants|carry out and take out|southwestern restaurants|bars and pubs,bars and pubs,carry out and take out,southwestern restaurants
+15551	margaritas,mexican,tacos,tequila
+15558	brunch,coffee
+15577	bubble tea,east village
+15590	bravo andy,desserts,top chef
+15591	coffee,coffee shop,diner,people watching
+15597	
+15599	calzones,espresso,freshly made gelato, everyday.  yummy,gelato,italian,pasta,red sauce
+15606	bones,chicken,mashed potatoes,rotisserie chicken,slow cooked pork,sweet potatoes
+15608	clusterfuck,deep fried chickpeas,falafel
+15636	brazil
+15647	
+15661	bagels,good_mark,salad bar
+15662	\baked goods\,baked goods,coffee,coffee, daily hot food, salads, baked goods
+15692	cocktails,food,good steak,half off wine bottles on mondays,late night,private dining available,seafood,trendy
+15693	asian,cash-only,food,inexpensive,vegetarian friendly
+15704	italian,pasta,pizza
+15705	pizza
+15740	breakfast,diner,pop culture,shakes,tater tots
+15743	baguettes,baker's dozen,bakery,bread,cafe,coffee,cupcake,cupcake bakery,espresso,french,iced tea,late,lemonade,picnic,picnic in the park,salads,sandwiches,soup,tartines
+15752	
+15795	brooklyn,burgers,chimay,craft beer,palm ale,prospect park,six point,sports,wings
+15808	curry,spicy
+15856	coffee,drinks,food,live music
+15862	vegetarian-friendly
+15876	deli,sandwich,soup
+15892	
+15900	zagat-rated
+15901	guacamole,zagat-rated
+15904	custard,rita's italian ice
+15917	austrian,cafe,campus cafetaria,coffee,expresso
+15930	bbq,beer,cnn superfan,cnn worldcup,wings
+15936	giantfuckinglion,lunch,salad bar,sandwiches,smoothies
+15944	byob,restaurant,spicy,sri lankan
+15960	
+16020	brunch,burgers,college,comfort food,diner,kitsch,pop culture,restaurant
+16029	24 west 55th street ny, ny
+16054	diner,mexican
+16055	bar
+16059	blt,byo,chowder,clam chowder,dessert,gluten free options,live maine lobster,lobster rolls,lunch,mac & cheese,seafood,shrimp rolls,soup,whoopie pie
+16079	brunch,norwegian,outdoor seating,smorgas,swedish,waffles
+16095	
+16103	coffee,crown heights,douchebag, brooklyn, gossip girl, socialite,espresso,flat white,prospect heights,wifi
+16119	gyoza,onigiri,ramen
+16126	asparagus,handmade soda,hot dogs,kobe dog,mac & cheese,non-fried fries,sausage
+16141	asian,restaurant,zagat
+16148	amazing calamari,brunch,chandeliers,gramercy,manhattan,sangria,tapas
+16167	
+16189	chelsea market,thai,thai food
+16195	brooklyn,pasta,pizza,zagat-rated
+16211	fine dining,zagat
+16220	east village,restaurant,thai
+16254	cheap,chicken,east village,falafel,greenwich village,lamb,late night,lunch,middle eastern,quick,salad,shwarma,st marks,village
+16259	bagels,bialys,coffee,lox
+16263	burrito,mexican,vegetarian
+16264	delivery,thai food
+16297	
+16317	mexican
+16324	noodle house
+16345	desserts,lunch,macarons,quiches,sandwiches
+16346	donuts,doughnuts
+16349	quick tasty sushi
+16350	topchef
+16357	alfajor,argentinian,avacodo fries,avocado fries...lobster tempura tacos...this will be my valentine's day treat,hipster,lomito completo,williamsburg
+16361	beer,coffee,outdoor seating,sandwiches,wifi
+16362	bravo,socialite,socialities
+16364	wine
+16368	 coffee shop,bakery,brooklyn,choice eats,pizza
+16377	burgers,jukebox,outdoor happy hour,raw bar,wall street hangout
+16378	healthy,lunch,smoothie,wfc,world financial center
+16403	pad thai,thai,vegetarian
+16437	 patio,restaurant,spanish,tapas,wine
+16439	
+16466	
+16504	zagat-rated
+16505	brooklyn,smoothies,vegan
+16506	falafel,sabich
+16526	
+16545	pizza,pizzaiolo
+16564	beautiful space,chef george mendes,flatiron,gossipgirl,iberian,mediterranean restaurant,michelin star,open kitchen,portuguese,private dining,restaurant,specialty cocktails,theater,union square,zagat,zagat-rated
+16574	
+16576	bruschetta,bruschetteria,italian,italian restaurant,les,lower east side,new york city,nyc,panini,salads
+16607	cozy,food,garage door,mediterranean,warm
+16623	authentic,food,food,kebab,lamb,turkish
+16625	restaurant
+16626	choice eats,gluten free pizza,green,organic,sustainable
+16653	american,burgers,cobble hill,organic,southern
+16671	bagels,best
+16672	bakery,cake,cheesecake,cinnamon rolls,coffee,cookies,cupcakes,desserts,muffins,scones
+16675	sushi,ty ku
+16679	\happy hour\ mon- fri 4 to 7pm o,burritos,chimichangas,chips,enchiladas,fajitas,guacamole,happy hour,jukebox,margaritas,margaritas $4.50 and beer $ 3.50,mexican,quesadillas,salsa,tacos,the best margaritas in town
+16683	diner
+16699	brunch,extensive wine menu,italian,panini,wine
+16717	
+16744	bar,beer,chill pub,great party venue,pub,pub food
+16745	pizza,sandwiches
+16811	cafe,coffee,douchebag,espresso,matthew crumrine,wifi
+16816	brooklyn root beer,brookyln,comfort food,fried chicken,fried food,thrillist,timeoutny
+16827	italian,pizza
+16828	falafel,healthy,restaurants,vegetarian
+16847	
+16855	burgers,fast food,sliders
+16858	
+16863	bacon burger,bbq,beach,fries,gossip girl,park,socialite,socialities
+16875	24 hours,bibimbop,korean
+16905	
+16910	delivery,guacamole,margaritas,outdoor seating,private rooms,salsa,sangria,tacos,tequila
+16913	chain,chelsea,coffee,manhattan,sandwiches
+16953	 gossip girl, playground, socialite,2 michelin stars,bravo,douchebag,genius,italian,michael white,michelin star,park,pasta,seafood
+16962	bowling alley,breakfast food,burgers,diner,dog run,food,fried chicken,gallery,hells kitchen,karaoke bar,play ground,record shop,ski area,vegetarian
+16965	college crowd late night
+16983	best foam,chandeliers,delicious,fancy,iced tea,pasta,salad,wine
+17026	byob,japanese,sushi,ues,upper east side
+17030	vietnamese food
+17031	bubble tea,cafe,taiwanese snacks
+17038	italian,pasta,salad,sandwich,soup
+17059	
+17066	chinese,dumpling,fusion,japanese,sushi,thai
+17085	food,fries,good burger,good music,goodburger,milkshakes,nyc,onion rings,turkey burger,veggie burger
+17088	bacon & eggs,brunch,dinner,groups,italian,latte,michelin,mimosa,outdoor patio,pancakes,pasta
+17090	'za
+17105	hot pot,japanese,social dining
+17137	beer,british,burgers,chandeliers,gastropub,hotel bar,oysters,thompson hotel
+17138	cafe,coffee,restaurant
+17162	rice and beans
+17170	artopolis,artopoliscafe,crepe
+17171	hibiscus tea,organic,sandwiches
+17216	deli,hoboken,mozzarella,mutz,roast beef
+17228	indian,kosher,vegan,vegetarian
+17251	 fries,chicken
+17282	brooklyn,coffee,douchebag,douchebags,fresh coffee,hipster,iced coffee,lounge,pastries,restroom,starbuck,starbucks,strollers,tea,wi-fi
+17297	burger conquest,sliders
+17305	bbq seitan,east village,fake meat wizardry,flavorful vegan pho,vegetarian,vietnamese
+17313	breakfast,coffee,dirty south,espresso,live music,stump town,vegetarian,yoohoo
+17316	???????
+17319	
+17323	buffet,chaat,indian,restaurant
+17381	awesome & speedy delivery,brooklyn,food,greenpoint,salads,sandwiches
+17405	
+17406	thai
+17415	 gossip girl, playground, socialite,bar,bravo,brunch,cafetaria,cocktails,douchebag,financial district,fireplace,frat boy,fried chicken,hiphostessnyc top pick,hotel restaurant,italian,locanda verde,outdoor,outdoors,photobooth,restaurant,top chef,wine,zagat-rated
+17426	extensive wine list,omakase,sake,shabu shabu,shochu,soba,sushi,teriyaki,udon,waterfront,zagat rated
+17465	beer,burritos,guacamole,margaritas,mexican,outdoor seating,sangria,stone street,tacos,tequila
+17472	italian,restaurant,theater district
+17489	falafel,healthy,vegetarian
+17494	
+17516	bagels,food,muffins,sandwiches
+17546	korean
+17591	best slice pizza,gossip girl,pizza
+17626	college,frat boys,jumbo,slice
+17665	social dining
+17675	cafe,coffee shop
+17677	douchbags,douchebag,starbucks
+17679	donut shop,dunkin donuts, bagels, coffee, breakfast
+17689	55,cabbage,chicken,curry,double,egg,go!go!curry!,home run,japanese,katsu,matsui,pork,sausage,single,soymilk,walk
+17692	andy cohen,bon appetit,social dining,zagat-rated
+17697	bakery,brownies,cookies,cupcake,cupcakes,dessert,desserts,pudding,trendy
+17698	cart,chicken,chicken and rice,falafel,food truck,gyro,halal,kofta,lamb,rice,salad,street cart,yelp
+17710	bagel,breakfast,brooklyn's best bagels,coffee,cookie,cupcake,sandwiches
+17716	peruvian food,rotisserie chicken
+17717	gelato
+17730	brunch,burgers,cole slaw,diner,french toast,pancakes,restaurant
+17731	
+17741	bar,beer,bon appetit mag,boulud,burgers,charcuterie,comfort food,daniel boulud,french,gilles verot,gossip girl,michters,mussels,october fest,outdoor,outdoors,piggie,puma social hot spot,sausage
+17777	crepes,nutella
+17779	bowling alley,dog run,fried chicken,gallery,karaoke bar,play ground,record shop,ski area,vegetarian\/vegan
+17795	vietnamese
+17830	cheap,falafel,hummus,salads,soups,union square
+17835	biscuits,coffee,frappuccino,muffins
+17871	american food
+17879	korean,porridge,soup,tofu
+17885	dessert,frozen yogurt,iced teas,parfaits,smoothies
+17935	diner
+17938	fastfood,food
+17955	Craft 2,Fast-Casual,Mexican,Mexican Gumbo,burrito,burritos,guacamole,mexican,nachos,new york,public seating,quesadillas,queso,tacos,texmex,value
+17973	cupcake,cupcakes,scone
+17983	beer,brunch,coffee,desserts,genesee cream ale,good_mark,punx,sandwiches,vegan,wine
+18005	burgers,food,fries,peanuts
+18007	pizza
+18009	bar,date,dessert,hotel bar,hotel restaurant,noodle,sake,sushi, japanese,upscale
+18014	cafe,coffee,starbucks,union square,wifi
+18024	
+18063	asian,barbecue,filipino,filipino food,food
+18071	mexican,tacos,taqueria,tortilla factory,tortilleria mexicana los hermanos
+18076	brunch,chelsea,coffee con leche,oatmeal,restaurant,spanish
+18117	
+18124	
+18144	burgers,fries
+18151	bloody mary,brunch,caipirinha,choripan,cocktails,couve,eggs benedict,feijoada,hot waitresses,p?o de queijo,soccer,steak and eggs,world cup
+18159	brooklyn,burger,byob,mozzarella sticks
+18167	 good seating,books,coffee,loungy,peace & quiet,stumptown,wifi
+18170	bite size cupcakes,cupcake shop,cupcakes
+18175	deli,fidi,food,grocery
+18176	falafel,mat runs this,vegetarian
+18177	chinese,dumplings
+18187	japanese,sushi
+18191	coffee shop,pie,pierogies
+18194	
+18221	
+18222	bakery,cereal milk,compost cookie,cookies,crack pie,desserts,ice cream,pie,soft serve,softserve,stumptown coffee,sugar high
+18227	cheese,coffee,italian,pasta,pastry,power,sandwiches,wifi
+18253	authentic,falafel,schwarma
+18279	brunch,delicious dinner,garden seating,great bartenders,great nightlife,wine
+18285	chinatown,chinese food,food
+19178	bakery,brownies,cookies,cupcake,cupcakes,desserts,pudding,trendy
+19182	italian,restaurant,wine
+19183	diner,dog run,fried chicken,karaoke bar,play ground,record shop,ski area,sushi,vegan,vegetarian,wine bar
+19336	
+19346	2nd ave,pizza,sicilian pizza,trendy
+19359	baked goods,blondies,brownies,chelsea market,chocolate
+19393	cookies,cupcakes,dessert,espresso,events,filled croissants,food cart,food truck,food wagon,promotions,quiche,whoopie pies
+19410	
+19414	baked goods,best chocolate chip cookies,coffee,vegan
+19416	happy hour,lunch special
+19417	brazilian,feijoada (saturdays),south american
+19426	all vegetarian,gluten-free,kosher,organic,pizza,vegan,vegetarian
+19432	astoria,cheese,cocktails,date,date place,food,pizza,romantic,tapas,wine,wine bar
+19433	brunch,dinner
+19488	gossip girl
+19517	mexican,restaurant,tacos
+19518	
+19536	
+19558	burritos,tacos
+19573	bbq,ty ku
+19576	food,tapas
+19608	
+19624	friday hangout,newport bar
+19644	awesome!,curry,northern thai,pond,rice,thai food
+19646	japanese,sushi,theatre district
+19666	chilaqueras
+19669	pizza
+19674	blt,brunch,college,columbia students,diner,frat boys,late night
+19700	breadsticks,nachos,pizza,taco
+19713	2 michelin stars,chef paul liebrandt,chef shawn gawle,corton,food & wine best new chef,french,modern,tasting menu,tribeca,wine list
+19734	coffee
+19768	2 michelin stars,asian-fusion,financial district,michelin star,wsj
+19778	curry,thai
+19780	cheap beer,dive bar,hamburgers,newark
+19782	nymag,socialite
+19807	
+19808	
+19837	br guest hospitality,do it yourself doughnuts,dry aging room,outdoor dining,private room,raw bar,seafood,steak,table-side caesar,wine list,www.brguesthospitality.com,zagat rated
+19842	cosy,fusion cusine,sea food
+19879	hummus,pita,tea,wine
+19889	
+19897	beef,chicken,cuban,plantains,pork,stew
+19912	frozen yogurt,fruit,fruit parfait,natural,smoothies,toppings,yogurt
+19914	steakhouse
+19920	gluten-free
+19939	alcohol,bar,breakfast,cocktails,drinks,food,friendly staff,great food,happy are those who eat at jo's,happy hour,late night,mixology,puma social hot spot,socialite
+19954	bar,drinks,italian
+19972	 beer&wine,coffee,patio,sandwiches
+20001	french,frites,restaurant,steak,steak frites,steak frites, french bistro,steak, fries, sauce, wine, salad,wine
+20006	
+20017	
+20023	awesome,drunken noodle,laksa,malaysian,michelin star,mouth watering,pad see ew,shumai,singaporean,thai,union square
+20043	
+20071	bakery,breakfast pizza,coffee,high-end breakfast sandwich,latte,pastries
+20077	
+20084	coffee
+20121	delicious
+20128	
+20130	br guest hospitality,brunch,outdoor seating,private room,raw bar,upper east side
+20134	
+20183	
+20184	baked,bread,brooklyn,cake,coffee,cupcake,cupcakes,dessert,fresh,just dessert,pastries,quiche,sandwiches,scones
+20237	coffee,espresso,salads,sandwiches,smoothies,snacks,vegan treats
+20248	vietnamese
+20250	sushi
+20255	
+20280	brooklyn,brunch,churros,mexican,social dining,tequila,vegetarian friendly
+20329	cake,cash only,chicken pot pie,coffee,cookies,cupcake,ice cream,muffin,pastry,pie,savories,scone,shepards pie,wifi
+20356	coffee,tea
+20373	
+20374	chicken burger
+20383	coffee,coffee shop,gossip girl,historychannel,socialite,starbucks
+20433	24 hours,beer,deli,meat,sandwich,sandwiches,subs,vegan,vegetarian
+20445	donut shop
+20476	coffee shop
+20489	24 hour,burgers
+20497	$1 oysters at the bar,bar,beer,brewpub,cocktail,craftbeer,gastrobrewery,great wine list,housemade pastas,oysters,pizza,tapas,winebar
+20500	
+20553	
+20592	byob,sushi
+20614	 douchbags,baked goods,best coffee,caf®¶,coffee,douchbag,espresso,pastries
+20622	brunch
+20624	british food,british imports,cute store cat,jammie dodgers,meat pies,shortbread,tea
+20626	curry,indian food,naan,tiki masala
+20707	
+20714	
+20748	pizza
+20758	french,kosher,ou,steakhouse
+20779	bread,coffee,yum
+20804	brooklyn,douchebag,italy,louisiana,pizza,spicy
+20836	awesome food,bodega,hot sauce,mexican,sopes,tacos,tortas
+20856	beer,coffee,cookies,eggs,fair trade,peace & quiet,salad,sandwich,tea,wine
+20885	
+20904	coffee,lunch,outside,sandwich,sandwiches
+20929	diner,jewish,jill zarin,kosher,pricey
+20930	brunch,hamburger,milkshakes,organic
+20934	
+20969	bar,burger
+21021	ty ku,under the bridge
+21029	bowling alley,dog run,fried chicken,gallery,karaoke bar,play ground,record shop,ski area,vegetarian\/vegan
+21033	cafe,locally grown,organic,pantry
+21038	breakfast,coffee,dessert,diner,dinner,lunch
+21041	bowling alley,diner,dog run,fried chicken,gallery,karaoke bar,play ground,record shop,ski area,vegetarian
+21067	sushi
+21070	bowling alley,diner,dog run,fried chicken,gallery,karaoke bar,ki area,play ground,ski area,vegetarian
+21124	diner,disco fries
+21157	burgers,french fries,shakes
+21166	baked goods,beer shakes,chocolate,cookies,cupcake,milk shakes
+21176	
+21207	cocktails,indian
+21231	brooklyn,brooklyn museum,gossip girl,jerk chicken,socialite
+21235	
+21237	mexican food,real housewife
+21289	pastries
+21291	coffee
+21298	
+21323	bakery,coffee,lunch,onigiri,pastries
+21324	24\/7,coffee,expensive,starbucks,tea,unlocked bathrooms,wifi
+21343	good ambiance,skirt stake is so good
+21345	appetizers,black angus sirloin,great sangria
+21347	
+21387	bagel shop,bagels,begals, bakery, coffee,cream cheese,jewish food,lunch,smoked salmon
+21388	cafe,free wifi,world cup 2010
+21395	lunch
+21397	chopped,healthy,salad,takeout
+21404	astoria,coffee
+21406	burritos,cal-mex,tacos,tacqueria
+21413	cocktails,colonial d®¶cor,fort defiance,homemade seltzer water,new american,red hook,wsj lunch box
+21422	americano,coffee
+21440	adirondack creamery,brooklyn,cupcakes,egg cream,farm fresh,ice cream,local food,robicelli's cupcakes
+21451	bakery,cakes,coffee,cookies,cupcake,cupcakes,tlc's
+21455	1127,coffee,dinges,food truck,food wagon,goesting,spekuloos,street cart,wafels,waffle truck,wmd
+21476	brunch,cocktails,free pool table,mac & cheese,ny state microbrews,outdoor patio,pool table,prix-fixe,restaurant,shellfish,the a-list,wine tasting
+21512	breakfast,coffee,food,lunch,pret,salad,sandwich,soup
+21513	baguette,bakery,bread,breakfast,brunch,cafe,coffee,croissant,french food,lunch,organic,pastries,retail,salads,vegan,vegetarian
+21534	
+21545	coffee,lower east side
+21547	
+21558	dosas,idli,indian,medu vada,parotta,pongal,poori,south india,south indian filter coffee,uttapam,vada sambhar
+21598	80s night,bbq,big buck hunter,brunch,chicken and waffles at night,drink specials,frickles!,live music,sports,upper east side,zagat rated
+21605	japanese restaurant,sushi bar
+21608	
+21625	cheeseburger fries,eggplant balls,fries,pasta,subs,wings
+21638	authentic italian,chianti,downtown manhattan,fidi,financial district,homemade pasta,italian,italy,mozzarella,pasta,pizza,prosecco,restaurant,seafood,south street seaport,tiramisu,wine bar
+21639	happy hour,italian,pizza
+21640	brunch,cakes,cupcakes,diner
+21657	BBQ,Bar-b-que,Restaurant,andre' king,bar-b-cue,bbq,burger joint,ribs,times square
+21660	burritos,mexican,midtown
+21661	beer,burgers,salad bar
+21677	hot chocolate
+21728	amazing chicken,bar,intelligentsia coffee,lipstick on a pig,restaurant,south slope
+21744	dine in\/take out,falafel,hummus,pita,salad,soup
+21771	bagels,west village
+21789	handmade quesadillas,margarita,mexican,mexican food,sangria,tequila
+21795	:coffee,clover,latte,tea,table seating,espresso,pastries,synesso,coffee cupping,classes,art,rocket espresso machine,guest espresso,merchandise,,cafe,coffee,no wi-fi,park slope
+21817	a-list,empanadas,sangria
+21818	byo,zagat-rated
+21826	steak,zagat-rated
+21831	pizza,social dining
+21833	brunch,family style,open late,pasta,pizza
+21841	cpk,pizza
+21861	
+21933	outdoor seating
+21963	italian restaurants,pizza places
+21967	
+21970	italian ice
+22142	coffee,latte
+22145	korean,lunch specials,naengmyun
+22148	
+22158	fireplace,organic
+22183	popcorn,yoga bunny detox
+22214	bakery,belgian,bread,coffee,organic,pastries,vegan,vegetarian
+22218	burritos,mexican
+22261	
+22268	thai
+22280	
+22318	
+22351	24x7,late,yes
+22366	beer garden,biergarten,bingo,chef,financial district,food,jamon iberico,luckymag,nytimes,pancakes,penny drop,ping pong,restaurant,russian standard vodka,trendy,wsj
+22424	
+22444	food truck,gay,ice cream,ice cream truck,locals,milkshakes,soft serve,soft serve ice cream,tourists,truck
+22463	cheap,dumpings,nymag,socialite,vegetarian options
+22519	falafel
+22596	french,seafood
+22614	
+22659	 bakery, coffee,cupcakes
+22681	french,french onion soup!
+22715	good thin crust pizza, great lunch special, fabulous desserts,happy hour, pizza
+22722	man vs. food
+22732	
+22768	asian food,thai food
+22769	bagels,coffee,food
+22787	baguette,bakery,bread,breakfast,brunch,cafe,coffee,lunch,organic,pastries,retail,salads,vegan,vegetarian
+22804	burger,fireplace
+22805	australian,cheap eats,drunk food,meat pies,puma social hot spot
+22812	
+22818	
+22821	
+22859	brunch,cafe,coffee
+22860	bagels,coffee,park slope,sandwiches,snacks,sweet treats
+22876	
+22900	bar,happy hour,restaurant,sushi
+22934	
+22949	thai
+23014	
+23026	coffee,fresh,salad,sandwiches,soup,sushi,wraps
+23049	burger,delivery,food,park slope,restaurant
+23055	knishes
+23062	
+23069	40 carrots
+23119	baked goods,black cat espresso,cash only,coffee,espresso,friendly staff,stumptown coffee,village
+23124	24 hours,coffee,dessert,food,free wifi,power plugs,tea,wifi
+23136	
+23138	banh mi,pan-asian,thai,vegetarian
+23167	beer,burger
+23187	
+23207	garlic knots,pizza,sicilian,slices,thin crust
+23209	asian,awesome ramen,buroughs,dope ramen,foodie,good for groups,japanese,long wait,noodles,pork buns,ramen,restaurant,wheelchair access,•È©`•·•Û,“ªÔLÃ√
+23220	super popular american bistro, classic cocktails, sushi bar & lounge - an upper westside favorite for dinner, drinks and brunch since 1991!
+23258	cart,chicken biryani,food cart,indian,street meat,vendy
+23313	cash only,homemade pasta,italian,nice terrace,outdoor seating,pasta
+23373	brooklyn museum,brooklyn, douchebag, gossip girl, socialite,byob,falafel,middle-eastern
+23374	coffee,diner,greasy spoon,manhattan,old school,upper west side
+23375	breakfast,breakfast,burgers,burgers,dinner,lunch,lunch,natural beef,natural beef,new york city,silver spurs!
+23379	
+23398	burgers,milkshakes,pick up
+23401	
+23438	pizzeria
+23449	outdoor seating
+23468	bravo,launch my line,seafood,service,steak,wine
+23553	catering,cupcakes
+23596	
+23655	coffee,cupcakes,desserts,muffins,tea,trendy
+23668	
+23764	bagels,breakfast
+23765	cheap,chinese,delicious,dim sum
+23773	
+23791	bakery,coffee
+23814	burritos,mexican
+23824	
+23868	bowling alley,diner,dog run,fried chicken,karaoke bar,play ground,record shop,ski area,vegan
+23912	seafood
+23917	garden,outdoor space,pizza
+23933	
+23976	bagels,coffee,lox
+23987	diner
+23989	bacon,bar,bourbon,brunch,cocktails,meaty,trendy,whiskey
+23997	great mexican food
+24001	bagel
+24002	breakfast,breakfast burritos,brooklyn,coffee,coffee shop,iced coffee,juices,natural juices,smoothies,tortas
+24084	+contemporary american,backyard,bar,restaurant
+24123	
+24124	bowling alley,dog run,fried chicken,gallery,karaoke bar,play ground,record shop,ski area,vegetarian
+24150	
+24154	bagelshop
+24164	
+24204	coffee,coffee shop,regulars
+24233	douchebag
+24252	2 dollar beers,baby back ribs,brunch,burger,chicken fried chicken,corndogs,crabcake,enchiladas,fish tacos,happy hour,ice cream baked potato,nachos,oysters,quesadilla,ronnybrook ice cream milkshakes,tacos,veggie burger
+24262	
+24295	
+24302	burrito,food,pita
+24319	
+24321	bread,breakfast,burritos,lunch,salad,sandwiches
+24355	italian,pizza
+24357	bakery,bread,coffee,desserts,organic,pastries,vegan,vegan options,vegetarian
+24364	icecream sandwich,proscuitto
+24407	italian,misspelling,pizza
+24411	andy cohen,bravo,omakase,sea urchin,sushi,zagat-rated
+24419	bakery,dessert,pies
+24423	cucina,lunch,meatless mondays,mediterranean,turkish
+24493	
+24496	cafe,coffee,coffee, cafe,starbucks,trendy,trendys
+24518	baked chicken, yellow rice,cheap,cuban,empanadas,plantain,sandwiches,smoothies
+24520	cafe,deli,manhattan,midtown,pasta,sandwiches,variety food
+24528	brooklyn,pizza
+24535	
+24537	burgers,cafe,diner,gyros
+24547	casual,thai
+24602	
+24605	b®¢nh m®¨,chef michael bao huynh,gossip girl,ph?,vietnamese
+24627	all natural,frozen yogurt,fruit,healthy treats,iced teas,parfaits,smoothies
+24640	coffee
+24677	
+24745	
+24845	cocktails,full bar,hummus,mezze,theater menu,turkish
+24874	brooklyn,cupcakes,douchbag,douchbags
+24880	bakery,coffee,deli,paninis,raviolis
+24943	otg management
+24968	delicious sundried tomato olive oil,homemade pasta,italian,restaurant
+24990	turkish beer,turkish coffee,turkish food
+25081	mexican
+25118	fresh tortillas,tacos,tamales
+25146	cart,gyros,lamb,pasta,street cart,streetmeat
+25183	
+25245	
+25269	college,frat boys,fratboys
+25295	bibimbap,food,kimchi,restaurant
+25323	bakery,coffee,lgbt friendly,muffin,muffins
+25341	
+25351	coffee,salad,sandwich
+25353	
+25365	dim sum
+25376	
+25400	
+25417	air conditioning,bathroom,booths,calzone,italian ice,park,pizza,pizzeria,upside-down slice,wsj lunch box
+25423	buddy holly,karaoke,musicals,singing,the singing is great
+25508	best cupcakes,cupcake,cupcakes
+25510	coffee
+25517	bibimbap,huffpost,korean deli,salad bar,sandwiches,soho,super fast service,sushi,udon soup
+25562	bowling area,brunch,chicken and waffles,dog run,fried chicken joint,gallery,harlem,karaoke bar,live music on tuesdays,play ground,record shop,ski area,soha,soul food,strawberry butter,vegetarian
+25597	coffee
+25656	comfort food,noodle soups
+25695	
+25701	
+25708	Craft 2,Fast-Casual,Mexican,Mexican Gumbo,burritos,guacamole,nachos,quesadillas,queso,tacos
+25710	breakfast,burgers,delivery,dinner,healthy,low calorie,lunch,salads,smoothie,wraps
+25711	big mac,egg mcmuffin,french fries,happy meal,manhattan,quarter pounder,union square
+25751	coffee,douchbags
+25753	panko crusted burger,panna cotta,potato salad,sauerkraut,schnitzel,truck
+25791	
+25808	chinese,sichuan,soup dumplings
+25845	falafel,middle eastern,zagat
+25858	
+25864	
+25883	banh mi,frat boy,ifc (independent film channel)
+25960	burger,milkshake,retro,sauce
+25967	 nigiri, sushi,asian,bbq,cheap,japanese,nigiri,sushi,trendy
+26012	big ass mac's,fast food,junk food,poor attitudes, bitter employees, slow service
+26051	bagels,coffee,lox,sandwiches,soup,wifi
+26052	cheap,dominican food,food
+26057	
+26124	
+26139	
+26140	\latin music\
+26191	coffee,frappucino,latte,mocha
+26193	breakfast,brunch,coffee,tea and cake
+26194	coffee
+26195	Craft 2,Fast-Casual,Mexican,Mexican Gumbo,burrito,burritos,guacamole,nachos,quesadillas,queso,tacos
+26199	social dining,thai,theater district,thematic,wheelchair access
+26200	bagels,coffee,deli,nymag,warnet swita molas
+26202	cafe mocha,coffee,espresso,free ny times,hipsters
+26207	dinner,food,lunch,rockefeller
+26235	cakes,cupcakes,pastries
+26240	bon appetit mag,bravo,douchebag,pizza,socialite
+26247	mexican
+26256	bowling alley,diner,dog run,fried chicken,karaoke bar,play ground,record shop,ski area,sushi,vegan
+26289	coffee
+26294	bagels,cookies,sandwiches,tourist
+26304	fried chicken joint
+26324	bar,brazilian
+26329	Bang Bang Shrimp,Bang Shrimp,Bonefish,Bonefish Grill,Wednesday,zagat-rated
+26330	cheapism,cheapskate,frat boys,sushi
+26335	anthony bordain,cumin,lamb burger,no reservations,noodles,travel channel
+26339	brunch,crepes,french,french toast,restaurant
+26353	
+26378	
+26428	bowling alley,dog run,fried chicken,gallery,greek diner,karaoke bar,late night,play ground,record shop,ski area,vegetarian\/vegan
+26434	restaurant,steakhouse,timeoutny
+26442	pho,shabu shabu
+26455	
+26570	pizza
+26577	steak,steakhouse
+26627	restaurant,times square,tourist,tourist trap
+26629	bar,cafe con leche,cnn did this...,cuban,cuban food,empanadas,flan,fun,group dining,happy hour,havana central,jose,large parties,larry vassallo,latin american,latin food,latin music,live latin music,live music,mojitos,paella,restaurant,sangria,spanish,spanish food,times square,wheelchair accessible
+26651	pizza
+26667	fantastic view,fdr drive,fire place,lobster,romantic,seafood
+26730	
+26753	coffee,desserts,diner,dog run,fried chicken,good food,karaoke bar,nice people,play ground,record shop,snacks,sushi,vegan
+26754	airport,beach,brooklyn museum,brunch,brunch rules,burgers,diner,dog run,douchebag, brooklyn, gossip girl, socialite,douchebags,gallery,hanging out,lake,old-school,pancakes,park,places to see in nyc,theater,tom's restaurant,wjs
+26797	bakery,cafe,coffee,pastries
+26867	dumplings,noodles
+26921	agua de jamaica,huitlacoche,mexican hot chocolate,torta,vegetarian burrito
+26934	blood orange,frozen yogurt
+27025	bagels,breakfast
+27031	
+27033	bar,beer,burritos,frozen margaritas,margarita,salads,tacos
+27050	andy cohen,chocolate,coffee,fashionista,gtl,socialite,starbucks
+27078	casual,date,drinks,food,fun,new york city,nyc,sushi,times square,trip
+27092	dinner,filipino,filipino cuisine,grilled pork belly,i,late night,manila clams,sticky rice,thai,thai cuisine
+27102	chain,juice
+27108	
+27274	
+27311	salad,wraps
+27315	budget,cheap,diner,dog run,fried chicken,half-price,play ground,ski area,sushi,vegan,very fresh!
+27391	24\/7,beer,deli,grocers,grocery,market,sandwiches
+27415	eat thai,lunch special,zabar
+27439	fudge,ice cream
+27441	sushi
+27515	
+27553	lunch,soup
+27581	
+27585	coffee,coffee shop,espresso,gossip girl,lucky mag,lucky megazine
+27604	diner,downtown,tribeca
+27642	food truck,foodtruck,taco van
+27704	best french cuisine, byob,byob,mussels
+27720	chambers,coffee,kedai kopi,starbucks
+27723	cappuccino,coffee,douchebag,douchebags,frappuccino,macchiato,starbucks
+27726	
+27776	park,socialite,socialities
+27780	coffee,starbucks
+27817	all types of chicken,all types of rice,chinese,fries,good food,shrimp,veggies
+27833	bakery,restaurant,sandwiches,wifi
+27837	
+27881	guacamole,mexican
+27910	pizza
+27966	australian,barrista,black cat,coffee,espresso,flat white,fresh baking,friendly service,hipster,intelligentsia,local food,organic,quality ingredients,soy latte
+27994	food,mexican,restaurant,social dining
+28002	coffee,douchbags
+28004	food,italian,restaurant
+28039	coffee
+28112	brunch,burgers,dogs,great salads,kid friendly
+28127	
+28154	bakery,coffee,cookies
+28279	brunch,margaritas,mexican,mexican food
+28285	
+28311	outdoors,parks
+28314	1241a
+28322	burrito,mexican
+28359	
+28369	food,fresh pasta,italian,pasta,ravioli,soho
+28406	bravo,gossip girl
+28415	coffee,cookies,ladies who lunch
+28427	thai,thai food
+28491	sushi
+28605	bagels,coffee,rainbow cookies
+28614	 douchebag,coffee,coffee shop,socialite,starbucks,tea
+28617	bakery,chinese pastries
+28675	coffee,starbucks
+28692	philly cheesesteaks
+28744	24 hours,24hours
+28764	counter,falafel,fast food,grill,healthy,hummus,mediterranean,pita,quick,sandwich,veggies,wraps,yogurt
+28783	candy,cookies,cupcakes,dessert,kosher,nut-free,parties,zagat-rated
+28788	byob,cheap beer,chinese food,delicious,knife peel noodles,lamian,noodle soup,noodles,soup
+28841	asian,japanese,sushi
+28870	pizza
+28879	
+28880	
+28898	banh mi,chinatown,manhattan,sandwiches,vietnamese
+28929	coffee,coffee bar,desserts,espresso,funky,hot chocolate,independent,pastries,uwsiders
+28959	burritos,college,deliciousness
+28990	infused vodka,russian,russian standard vodka,stange feelings,sunday brunch
+28999	family style,italian,italian food,pizza
+29079	broadway,coffee,garment-district,midtown,pedestrian-mall
+29087	coffee
+29092	coffee,coffee, newspapers, starbucks, wifi,newspapers,wifi
+29101	starbucks
+29121	union square
+29164	cafe,coffee,pastries,sandwiches
+29193	beer,burritos,fajitas,mexican food,tacos
+29212	late night,open kitchen
+29259	pizza
+29261	chocolate,fudge,smoothies
+29309	
+29347	catering,catering midtown,italian cuisine,italian cuisine midtown,pizza
+29405	corporate account,desserts,michelin star,oyster bar,seafood
+29422	burrito bowl,chipotle,crazy delicious,guacamole,mexican,tacos
+29471	australian,brooklyn,brooklyn museum,brunch,cafe,coffee,gossip girl,outside seating,outside setting,socialite
+29483	cornbread,fried chicken,ribs,smothered chicken
+29538	big portions,cheap eats,chinese,chinese restaurant,nutcrackers,peruvian,spanish & chinese restaurant,spanish restaurant,uws
+29577	breakfast,burger,delivery,dinner,healthy,low calorie,lunch,salad,smoothie,wraps
+29582	coffee,coffee shop,mallora sweet brad
+29594	
+29599	mexican,pastor,tacos
+29608	bar,good cocktails,hotel,mix,restaurant
+29615	best gyro nyc, greek salad, chicken gyro, pork gyro, greek fries
+29635	
+29636	social dining,they have deliciousfood, a great buffet during lunch time, a variety of vegetarian dishes as well as a selection of different meats.you can be in and out in less than an hour if you sit for teh buffet! staff is friendly.
+29660	delivery,restaurant,takeout,takeout delivery,thai
+29670	korean bbq,tofu soups
+29705	
+29713	asian,chinese,japanese,sushi,sushi restaurant
+29758	burritos,east village,mexican,restaurant
+29816	donut shop
+29825	cafe,coffee,free wifi,tea
+29828	
+29871	falafel,healthy,midtown lunch,vegetarian
+29884	bathroom,coffee,espresso,frappaccinos,pastries,starbucks,wifi
+29910	late night pizza,olive-oil crust
+29937	gossip girl
+29947	
+29948	coffee
+29952	
+29980	
+29998	k-pub,korean,soju
+30079	birthday specials,bistro,brunch,cocktails,dinner,dinner specials,dinner theatre,dj,european,french,house music,lounge,mimosas,mixology,nightlife,private events,rock music
+30106	bagels
+30145	
+30151	chicken,fried chicken joint,hot wings,spicy,wings
+30231	
+30313	
+30381	restaurant,social dining,thai,thai food
+30415	veg pho!
+30444	
+30452	
+30507	beer,wine spectator award 2000-2011,zagat-rated
+30515	breakfast,brunch
+30518	
+30525	bar,gizzards,izakaya,japanese,sake
+30559	brunch,near moma,outdoor dining
+30652	wine bar
+30746	coffee,coffee fashionably,columbus circle,lap top,starbucks,wi-fi
+30828	
+30858	coffee,lunch,rink,rock ctr,rockefeller plaza
+30863	bathroom,coffee,douchbags,espresso,pastries,wifi
+30907	burritos,chain,chelsea,manhattan,mexican food,tacos
+30926	 dumplings, fried rice, japanese, noodles, soup,ramen
+30941	bakery,cafe,cake,cannolis,coffee,cookies,italian,pastry
+30986	coffee,people talking on phone and ordering simultaneousl
+30990	diner,dog run,fried chicken,karaoke bar,play ground,record shop,ski area,sushi,vegetarian
+31027	beer,brooklyn,brunch,burgers,foxon park soda,fries,hot dogs,hotdog,restaurant,sandwiches,six point,sports,vegetarian-friendly,wifi,wine
+31042	roasted meats,siopao
+31045	bagels,breakfast,lunch
+31047	bagels,manhattan,midtown,sandwich
+31052	burger,grill,lunch,salad bar,sandwich
+31112	a-list,coffee,gay cruising,gays,hotties,limited seating,small,starbucks
+31117	
+31133	declicious,italian
+31164	
+31167	
+31314	
+31319	
+31321	
+31324	coffee,quick food,salad,sandwiches
+31326	
+31328	
+31415	
+31443	bowling alley,dog run,fried chicken,gallery,karaoke bar,play ground,record shop,ski area,vegetarian
+31453	
+31473	indian,restaurant
+31475	booze,celebrity sighting,cocktails,outdoor seating,pho,soho,vermicelli,vietnamese
+31517	
+31548	
+31595	seafood,south street seaport
+31616	breakfast,cappucino,coffee,dinner,espresso,food,frappucino,iced coffee,iced tea,latte,lunch,photobooth,restaurant,sandwiches,snack,starbucks,tea
+31671	bar scene,beer,bourbon,br guest hospitality,burgers,delivery,douchebag,hd tvs and jumbo projector,large parties,salads,sandwiches,union square,whiskey,whole hog
+31672	bento box,ramen,sushi
+31688	 italian food,fine dining
+31748	andy cohen,blk banjarbaru,bravo,brooklyn bridge,city hall,coffee,fashionista,gossip girl,park row,socialite,starbucks
+31813	burritos,douchebag,good service,long lines
+31817	salads,sandwiches
+31822	andy cohen badge,burgers,prime burger
+31853	coffee
+31862	sushi bar
+31875	
+31901	breakfast,chelsea,coffee,diner,fried,friendly,grill,lunch,luncheonette,sandwiches
+31909	margaritas
+31949	
+31973	asian,cheap,curry,dumplings,himalayan cuisine,momo,nepalese food,tibet,tibetan,vegetarian
+32008	pasta,pizza
+32220	bright store,coffee,douchebag,douchebags,frat boy,hot chocolate,starbucks,yoga,yoga studio
+32286	deli sandwiches,pizza
+32319	
+32374	byob,dinner,outside seating,trendy
+32420	birria,tacos
+32536	cookies
+32582	breakfast,burger,delivery,dinner,food,health food,healthy,low calorie,lunch,salad,smoothie,wrap
+32586	6 nations,beer,british,chips,deep fried snickers bar,english,fish and chips,fried macaroni,fried twinkies,rugby,worldcup
+32593	
+32603	bar,columbia university,cuban food,empanadas,flan,group dining,happy hour,havana central,large parties,latin food,latin music,live latin music,live music,mojitos,paella,sangria,spanish,spanish food,upper west side,wheelchair accessible
+32629	free wi-fi,upstairs seating
+32713	bistro,event appropriate,french,neighborhood,parisian
+32742	falafel,mediterranean,pita
+32765	
+32770	brooklyn,italian,pizzeria,trendy
+32783	cheap,food
+32803	
+32804	diner,fried chicken,japanese,karaoke bar,play ground,record shop,ski area,sushi,sushi bar,test,vegetarian
+32869	diner,diners,restaurant,upper west side
+32873	cheap,cheap lunch!,cheap slices,gossip girl,late nite bites,pizza,pizzeria,slices,soda
+32981	coffee shop,ngopi dulu ahh
+33001	indian
+33002	coffee,cupcakes,rutgers,smoothies,super cute
+33031	barista,coffee,starbucks
+33047	bakery,cafe,cafe muse,cake,coffee,dessert,hotel stanford,korean,korean bakery,mochi,pastries,tea
+33123	bbq,korean,korean bbq
+33149	adam-sandler,big-daddy,by-the-pie,by-the-slice,famous,greenwood,meatballs,park-slope,south-slope
+33167	japanese,sushi
+33218	 ipswich clams, mac and cheese,bongo bites,crab cake sandwich,grilled garlic shrimp,homemade potato chips,killer cocktails,lobster rolls,onion rings,oysters,private parties,raw bar,tilapia fried fish sandwich,tuna burger,west indian codfish cakes
+33222	24 hours,good diner food
+33226	bakery,coffee,sandwiches
+33260	burritos
+33386	
+33444	bowling alley,diner,dog run,fried chicken,karaoke bar,play ground,record shop,vegan
+33471	best pizza, neopolitan, italian, wood fired oven, best
+33492	coffee,deli
+33542	crab cakes,sea food
+33560	bagels,breakfast sandwiches
+33596	american food,food,italian,pizza
+33642	breakfast,coffee,deli,desserts,drinks,grill,hot bar,lunch,salad bar,salads,sandwiches,snacks,soup,sushi
+33652	dessert,food,froyo,frozen yogurt
+33655	coffee,starbucks queens new york
+33672	anotgexperience,bar,otg management,restaurant,sushi
+33675	bowling alley,coffee,diner,dog run,fried chicken,gallery,karaoke bar,play ground,ski area,vegetarian
+33689	
+33691	general tso's
+33743	asian food,chinese,ice cream
+33752	mexican,zagat-rated
+33826	lunch specials,lunchspecials,sushi,zagat-rated
+33846	
+33859	bar,outdoor,restaurant
+33865	
+33885	
+33905	brunch,cocktails,comida,julian medina,latin,mexican,taco,west village
+33933	burritos,guacamole
+34003	
+34008	alain ducasse,bistro,french,midtown,new york,restaurant
+34014	greenpoint,pierogis,polish
+34133	grill,pasta,restaurant,spanish
+34180	salads,smoothies,wraps
+34185	
+34219	american restaurants,american restaurants|carry out and take out|southwestern restaurants|bars and pubs,bars and pubs,carry out and take out,southwestern restaurants
+34224	ice cream,juice bar,sandwiches,subs
+34239	long island city, skirt steak, rice, beans, huevos rancheros, pollo a la plancha
+34275	 delivery, italian, mac and cheese, take out,gourmet salads,pizza
+34405	chinese,noodles,shack,spicy
+34528	pizza
+34553	coffee,zagat rated,zagat-rated
+34558	 coffee,diner,food
+34572	food,polish
+34591	pastry
+34596	italian,restaurant
+34618	a-list
+34627	brazilian,hamburger,new jersey
+34743	
+34765	gross,lobster,restaurant
+34897	italian,pizza,pizzeria,restaurant
+34938	baguette,bakery,bread,breakfast,brunch,cafe,coffee,lunch,organic,pastries,retail,salads,vegan,vegetarian
+34973	great food!,long line,sandwiches,soup
+35055	zagat-rated
+35085	andy cohen,bravo,coffee,douchbag,douchbags,fashionista,socialite,starbucks
+35101	
+35166	italian,italian food,pizza
+35216	
+35244	
+35260	art,bagels,benches,black cat espresso,brownies,clean spoons,coffee,cookies,friendly employees,friendly staff,handmade furniture,intelligentsia coffee,national geographic magazines,owner-operator,photos of people smoking while cycling,sandwiches,tables,wifi
+35263	Craft 2,Fast-Casual,Mexican,Mexican Gumbo,burritos,guacamole,nachos,quesadillas,queso,tacos
+35326	eclectic music,espresso drinks,single origin coffee beans,thor house blend pour over
+35350	bar,burgers,deli, corned beef, pickles, knishes,delicatessen,food,kosher,latkes,matzoh ball soup,restaurant
+35435	awesome,japanese,restaurant,robataya
+35464	
+35522	cheap food,fresh,mediterranean,panini,sandwiches
+35534	mongolian grill,salad bar
+35563	gramercy,happy hour,sake,social dining,sushi
+35623	
+35753	delivery,thai
+35812	
+35833	anthony bourdain,best thing i ever ate,featured on diners, drive-ins and dives,food network,guy fieri,made to order,sliders,travel channel
+35862	art projects,babies,coffee,cookies,salad & sandwiches
+35863	
+35866	
+35894	bravo,garlic knots,pasta,pizza,salads
+35908	bar,food,restaurant,special,thai food
+35921	$2.50 luncheon
+35942	coffee,donut shop,donuts,dunkin donuts
+35946	bagels,breakfast,chips,coffee,drinks,sandwiches
+35947	burgers,coke,fast food,fries
+35966	fried chicken,japan,wings
+36039	coffee,tea
+36092	bakery,cake,cupcakes,tasty treats
+36314	cheesebuger
+36389	 gossip girl, playground, socialite,bomboloni,bread,douchebag,pizza,sandwiches
+36421	
+36438	 dinner,food
+36462	asian,chinese,spotted rihanna!!,zagat,zagat-rated
+36580	kabab
+36650	salad bar,udon
+36707	
+36718	
+36767	
+36929	zagat-rated
+37053	
+37109	pasta,pizza
+37168	coffee
+37238	airport,red velvet cake
+37263	breakfast,burger,delivery,dinner,healthy,low calorie,lunch,salad,smoothie,wrap
+37273	brooklyn,coffee,douchebag,douchebags,espresso,free wi-fi,gossip girl,pastry,socialite,starbucks,wifi
+37276	coffee,not-starbucks,whole-bean
+37315	british crisps, chocolates, teabags etc,brooklyn,douchebags,fish and chips,rugby,top chef,try the fried twinkies, better than expected
+37331	greek
+37379	african,american,black,book,books,bookstore,cafe,latino,reading
+37455	brooklyn heights,falafel,good food,nice people,snacks
+37467	
+37480	fast food,french fries
+37586	Bloomin' Onion,Outback,Restaurant,Steakhouse
+37641	brooklyn,pizza
+37687	
+37697	chinese,loud,lunch specials,take-out
+37842	burgers,kobe beef
+37855	nymag
+37883	open 24 hours,sandwiches
+37891	
+37906	coffee,deli,sandwich
+37911	
+37983	bolt,coffee,la colombe,surfing
+37990	falafel,hummus,kosher,laffa,schnitzel,shwarma,sushi
+38021	bar,date,fine dining,great views,italian,michelin star,nymag,restaurant,time warner center,where to eat,zagat,zagat rated
+38064	crepes,great coffee,nutella,panini
+38137	andy cohen,bar,bravo,fish,lobster roll,oysters,patio,seafood,zagat-rated
+38140	
+38209	24 hour,24 hour delivery,greek diner
+38304	bathroom,coffee
+38343	#great owner...tamir,all you can drink,aycd,bar,brunch,burgers and beer,happy hour,no tamir = wackness,this place blows since tamir left!,toast
+38353	cocktails
+38408	asian,banh mi,cheap pho,pho,vietnamese,zagat-rated
+38428	chicken,pizza
+38551	zagat-rated
+38603	organic,organic food
+38612	
+38624	booze cruise,food specials,frats,pitchers,sorority
+38631	did this.. had brunch, its a cool place to relax in
+38668	mexican
+38670	frozen yogurt,pinkberry
+38689	beer,brooklyn bar restaurant,brunch,cocktail,cocktails,food,vegetarian friendly,wine,wine bar
+38693	japanese,pan-asian,sushi
+38752	
+38753	polish food,very special perogies
+38775	
+38916	atm,catering,deli,heroes,hot food,mozzarella,pasta
+38920	
+38929	spinach fettuccine verde
+38932	gourmet coffee, tea, sandwiches, salads, open mic
+39072	
+39104	italian,little italy
+39120	burritos,guacamole,tacos,tourists
+39230	coffee
+39242	ace hotel,cappuccino,coffee,cold-brewed iced coffee,espresso,french press,good_mark,hipsters,holiday hero,holiday hero hotspots,hotel,mast brothers chocolate mocha,merchandise,natty staff,portland smell,pretzels,radioshack,stumptown,travertine floors,trendy,walnut bar
+39253	flatbread,food,fruit,smoothies
+39261	barista,cafe,coffee,cupcake,cupcakes,tea
+39321	fries,hamburgers,milkshakes
+39324	indian,prixe fixe,restaurant
+39364	indian
+39375	food,malaysian
+39416	bar,biscuits and gravy,brunch,burger,great arugula salad
+39530	indian
+39815	breakfast,coffee,lunch,oatmeal,restaurant,salad,soup
+39832	brunch,food,italian,park slope,prix fixe,restaurant
+40088	burgers,steak,wine
+40144	chinese,dim sum
+40177	puerto rican
+40228	
+40283	pizza,playgrounds,zagat-rated
+40348	barbeque,bbq,bon appetit magazine,bravo,gossip girl,nick and stef's steakhouse,socialite,top chef,zagat,zagat-rated
+40353	kalbi,korean,tofu
+40886	coffee,sandwiches,starbucks
+41065	24-hour,restaurant
+41096	coffee,douchbags,melky,starbucks
+41122	
+41127	pizza
+41141	barista,chain,chelsea,coffee,espresso,frappuccino,latte,manhattan,seating,starbucks,starbucks coffee
+41272	
+41375	
+41475	pizza
+41522	brunch,fondue,french bistro,french toast,frites,mussels,omelets,salads
+41537	coffee
+41560	pasta,pizza,socialite
+41591	momos,nepalese
+41639	
+41704	michelin star
+41839	baklava,falafel,hummus,israeli food,kosher,shakshuka
+41930	
+41961	bravo,gossip girl,pizza
+42059	 acai, acai bowls, cooler cleanse, juice cleanse, kale, mangosteen, raw food, salads, sandwiches, smoothies, soups, vegan, vegetarian,juice
+42088	cafe,cute cafe | c'c |,tiny friendly cafe
+42095	
+42300	
+42406	sandwich,soup
+42535	free coffee,organic,organic food
+42655	24 hours,diner,food,restaurant
+42701	 coffee, comfort food, dessert, sandwiches,brunch,cuban,soup
+42705	coffee
+42706	coffee,photobooth,starbucks
+42719	belgian beers,french bistro
+42725	beef wellington wednesdays,brunch,captain daniel,financial district,french toast,heaven,masters of the universe,poverty,restaurant,timeoutny,wall street happy hour,wedding proposal
+42728	carbonara,cheese,cheeseburger mac,four cheese,lobsta mac,ma'shroom mac,mac & cheese,mac quack,mac reuben,mac stronganoff,margarita mac,mayan chipotle,primavera,take out,the classic,vegetarian friendly
+42775	burgers,happy hour,lincoln center,lunch,steaks,wine
+42945	bakery,coffee,cupcakes,hot cocoa
+43005	
+43052	burrito,lunch
+43164	bagels,bakery,coffee,dessert,salad bar
+43192	asian fusion,cocktails,pho,sandwich,vegan-friendly,vietnamese
+43225	sushi
+43226	brunch,healthy,organic,prix fixe
+43333	
+43357	zagat-rated
+43372	
+43432	
+43453	
+43469	
+43480	bathroom,fast food
+43579	baked goods,best sandwich in ny,saltie sandwiches,sandwiches
+43617	dumplings,tea,tibet
+43795	buy 10 coffees get 1 free,cash only,cat friendly,dog friendly,friendly service,great coffee,latte art
+43817	healthy,smoothies
+43824	burger joint,restaurant
+43865	
+43879	
+44065	starbucks
+44078	bone marrow,burgers,cobble hill,cocktails,gastropub,kitchen open late,whiskey,wilkensons,wilkinsons doughnuts
+44116	
+44146	steak,zagat-rated
+44155	coffee,starbucks
+44169	burgers,gossipgirl
+44192	crepe,crepes,cr®∫perie,cr®∫pes,delicious
+44217	
+44321	cheese,italian imports,meat,meat pies,pasta,rice balls
+44325	pizzeria
+44353	barista,coffee,douchbags,starbucks
+44437	diner
+44441	
+44495	
+44499	beer,cafe,great fresh cobb salad, quality ingredients,swedish,wifi
+44588	deli
+44620	
+44639	zeppole
+44752	
+44778	
+44818	
+44846	
+44899	 pastry,coffee,croissants,cupcake
+44907	pasta,pizza,weekend brunch
+44919	wine
+44956	churrasco,cuban,empanadas,gnocchi,italian,lasagna,mojito,risoto
+45067	'puma social hot spot',karaoke,starbucks
+45155	eggplant,falafel,food,fresh orange juice,hummus,salad,vegetarian
+45167	
+45248	deli,grocery
+45302	cash only
+45321	byob,sake,sushi
+45373	wifi
+45393	coffee,coffee shop,oatmeal,starbucks
+45403	bisque,blueberry coffee cake,blueberry cookies,chowder,clam chowder,crab,crab claws,fresh seafood,lobster,lobster rolls,lobster tails,lunch spot,maine root,perfect buns,shrimp,zagat-rated
+45448	boat,bravo,brooklyn,cupcake,dessert,desserts,douche bag,gossip girl, douchebags,ice cream,zagat-rated
+45712	pizza
+45828	
+45831	coffee,nyu
+45847	
+45896	diner
+45909	coffee,frat boy,movies
+45911	bbq,hawaiian bbq
+45918	
+46034	
+46179	coffee,douchebag
+46321	
+46349	bon appetit mag,bon appetit magazine,brooklyn,douchebag,gossip girl,park,pizza,socialite
+46684	 douchebag,coffee shop,socialite,starbucks
+46729	airport,cinema,coffee,dog run,gym,photobooth,pizza,starbucks,time out
+46736	25th anniversary specials,authentic neighborhood landmark,bananna fritters,byob,chicken tikka masala,delicious indian food,family operated,fresh baked naan bread,live music,mango lassi,rustic underground hotspot,samosas,sitar & tabla,tandoori clay oven
+46763	
+46904	seafood
+46923	zagat-rated
+46936	
+47026	bakery,biscotti,coffee,delicious,italian
+47030	
+47056	peruvian
+47159	24 hours,bagels,sandwiches
+47196	breakfast,burger,delivery,dinner,fast food,healthy,low calorie,lunch,salad,smoothie,wrap
+47236	thai
+47247	
+47339	coffee
+47381	chinese food,upscale chinese restaurant
+47404	
+47405	cappuccino,coffee,espresso,hot chocolate,tasty,tea,treats,yummy
+47520	
+47540	baguette,bakery,bread,breakfast,brunch,cafe,coffee,lunch,organic,pastries,retail,salads,vegan,vegetarian
+47569	 bakery, dessert,all day breakfast,arem - arem,brunch,cheeseburger spring rolls,cupcake,great breakfast,happy hour,ice cream,mac-n-cheese,meatloaf,minibar,parang,pear bellini,private event space,quiche,sparkling sangria,the courtyard,tuna tartare,zen martini
+48994	 douchebag,coffee,coffee shop,socialite,starbucks
+49075	
+49111	gyoza,ramen
+49178	brooklyn museum,coffee,cupcakes,douchebag, brooklyn, gossip girl, socialite,movies,photobooth,zagat-rated
+49200	great meals at a good price
+49254	Craft 2,Fast-Casual,Mexican,Mexican Gumbo,burritos,guacamole,huge portions,mexican,nachos,quesadillas,queso,tacos
+49340	coffee,latte
+49484	
+49621	cupcake,cupcakes,desserts
+49624	
+49727	
+49736	coffee,starbucks
+49766	
+49870	michelin star
+49886	don peppe,family style
+50167	cafe,candy,chocolate,chocolate almond croissant,chocolatier,cocoa,coffee shop,factory,hot chocolate,ice cream
+50168	byob,cuban food,jersey,zagat-rated
+50257	
+50314	burgers,chipotle mayo,fries,late night,lucky sauce,onion rings
+50547	
+50603	$10,awesome,bland,fajaitas,fajitas,frozen,guacamole,margarita,texmex
+50719	filipino food,good food,lumpia shanghai,red horse and san miguel
+50731	airport,decent food at jfk,delta,jfk,restaurant
+51138	coffee,starbucks
+51152	 gossip girl, playground, socialite,bakery,corned beef,delicatessen,douchebag,dr. brown's soda,egg cream,food,jewish deli,katz's delicatessen,knishes,knoblewurst,lower east side,manvfood,meg ryan,nom nom nom,ny institution,pastrami,pickles,restaurant,reuben,sandwich,sweet potato knish,tongue,when harry met sally
+51231	cocktails,david chang,pork,pork buns,spicy rice cakes,steamed buns,trendy,zagat-rated
+51237	
+51294	great apps,pizza,wine,wine bar
+51302	beans & rice baby,comida
+51304	lunch,salad,sandwich,soup
+51385	asian,hotel,hotel bar,japanese,sake
+51391	catering,coffee,espresso,food,mac and cheese,wifi
+51419	
+51593	coffee,starbucks,trump building
+51660	atmosphere,br guest hospitality,food,lobster,post-theater,pre-theater,private room,raw bar,sea food,times square,w hotel
+51770	cuban,dinner,lunch
+51776	bagels,breakfast
+51813	baguette,bakery,bread,breakfast,brunch,cafe,coffee,lunch,organic,pastries,retail,salads,sandwiches,vegan,vegetarian
+51911	
+51936	otg management
+51951	
+51967	breakfast,brunch,burgers,dinner,lunch,sandwiches,seafood,smoothies,vegetarian
+51969	
+52135	
+52156	burritos,margaritas,mexican,nachos,sangria
+52205	coffee,douchbags,starbucks
+52207	
+52286	dominican
+52287	
+52387	barbecue,bbq,cheap,frozen drinks,happy hour,liquor,macaroni & cheese,margaritas,plantains,southern
+52582	awesome,bagels,coffee,sandwiches
+52618	chickenjoy,filipino food
+52719	burrito bowl,great burritos!,mexican,taco,tex-mex
+52878	brewery,zagat-rated
+52963	cigars,steak,wine
+53029	chinese,japanese
+53070	roti
+53085	shrimp
+53169	
+53184	
+53213	bar,internet,lounge
+53300	
+53346	
+53814	coffee
+53848	caffeine,coffee,espresso,wifi
+53890	ceviche,chek in..,fireplace,great cocktails,gym,laundromat,mega mall bengkulu,music,sshanot@yahoo.com,sushi,tanning
+54011	coffee
+54032	
+54044	beer,burritos,chips and guacamole,pizza (across the street),tacos
+54085	
+56006	chelsea market,salads,soup,wheelchair access
+56534	guacamole,tacos, burritos, fast food, tex-mex
+56548	
+56577	chinese food,northeastern chinese food
+56596	thai
+56624	italian
+56898	coffee,coffee shop,douchebag
+57043	
+57076	soul food,vegetarian
+57145	diner,dog run,fried chicken,karaoke bar,play ground,record shop,ski area,sushi
+57168	we had the veal & ricotta meatballs tonight.  they were 9.5 out of ten.  i can't remember having a better meatball.
+57263	bakery,cafe,cakes,cookies,cupcakes
+57268	coffee,starbucks
+57281	bad beer selection,brazilian,cheese,cocktails,dj,food,french,french-african cuisine,good lighting,great drinks,moroccan,tight fit,world cup
+57322	beers,br guest hospitality,fries,milkshakes,salads,walk ins
+57328	coffee
+57381	burgers,fries,salad,wraps
+57404	broadway,city hall,coffee,douchbags,douchebag,starbucks
+57674	cafe,coffee,espresso,espresso cafe,espresso macchiato,macchiato,manhattan
+57887	chicken,tacos
+57918	pizza cheese bbq
+58085	arts & crafts,bowling alley,caribbean,dog run,gallery,harlem,karaoke bar,play ground,record shop,ski area,soul food,southern,vegetarian
+58389	pizza
+58432	\banh minh\,\food cart\ \vietnamese sandwich\,banh mi sandwich,financial district
+58494	food,long lines,mtvn,salad bar,slow prices
+58893	
+58906	casual,east harlem,full bar,steakhouse
+58944	zagat-rated
+59059	chelsea,thai
+59566	capuccino,coffee,espresso,tea,wifi
+59650	choux,coffee,free wi-fi,frozen yogurt
+59697	
+59727	4 others,sake,sushi
+59804	ihop,jamaica
+60031	busy,chorizo,churros,crains,crainsny,gorditas,guacamole,mexican,tacos,taqueria
+60120	empanadas
+60698	
+61118	columbian,restaurant
+61132	
+61168	bbq,food
+61207	9 to 5,corporate,corporate office,office
+61210	asian cuisine,chinese,gluten free,gluten-free,sushi bar
+61274	amazing cocktails,beignet,brooklyn,brussel sprouts,choice eats,small plates
+61285	
+61326	frozen yogurt,salad
+61329	healthy,salads,soups,wraps
+61354	falafel,kosher,shish kebab,shwarma
+64674	burritos,chain,food,mexican,tex-mex
+64680	hazlenut coffee is da bomb!
+64714	crowds,family style,good food,italian,pizza
+64823	bakery,salads,sandwiches
+64882	
+64895	
+64971	barista,coffee,shakenicedtea,wifi
+65011	art,baguettes,bread,breakfast,brooklyn,chai latte,coffee,cold brew,croissants,espresso,fresh lemonade,fresh oj,green tea latte,hot chocolate,iced coffee,iced tea,loose leaf tea,mocha,stumptown,vanilla latte,wifi
+65095	
+65112	
+65142	bakery,coffee,food,socialite
+65144	 appetizers, beer, chicken, desserts, fish, pasta, salads, soft drinks, veal, wine,pizza
+65189	burrito,food cart,mexican,quesadilla,street food,tacos
+66081	cheese plate,crostini,food,italian,jason denton,wine
+66139	fish,japanese,sushi
+66370	
+66697	
+66837	absinthe,bar,boroughs,brunch,cocktails,delivery,dinner,donuts,grits,happy hour,lunch,regional craft brews,restaurant,ribs,southern,sticky bun,stumptown coffee,wsj urban adventurer
+66938	burritos,mexican food,tacos
+66940	mexican food,steak,steaks
+67007	
+67049	coffee bar,diner
+67064	restaurant,steakhouse
+68004	bbq,good bbq chicken
+68070	omusubi,udon
+68216	
+68311	
+68453	 pork, wine,pizza
+68829	airy,brunch,business lunch,champagne,chill vibe,happy hour,healthy,hot spot,lamb,unisex bathrooms
+68935	boutique,coffee,eco-friendly,great pastries,hipsters,hot baristas,thoughts
+68983	
+69141	douchebags
+69215	brunch,cocktails,comfort food,mexican,restaurant,wine
+69265	chinatown,chinese food,dumplings,food,noodles
+69282	
+69521	great reason to head to jersey!
+69575	brunch,free wifi
+69601	bryant,byrant market,deli,market
+69745	diner
+69953	kosher
+70160	
+70246	breakfast,burgers,chicken,corn dog,drinks,fries,happy hour,hot dogs,ice cream,salad,shakes,tater tots
+70393	noodle soup
+70790	burrito,california,choice eats,dos toros taqueria,mario batali,meat lover,mexican,quesadilla,taco,timeoutny,village voice,village voice choice eats,voicestreet
+70970	
+71070	asian,chinese,fast,vegitarean
+71112	food,salad,wraps
+71417	
+71486	
+71579	coffee
+71641	best coffee,cafe,fresh,italian,pasta,soup
+71745	douchebag
+71905	
+71971	sushi
+72017	crumbs,cupcake,cupcakes
+72073	brooklyn,cocktails,dj,foods,good portions,gossip girl,lounge,night club,outdoor,restaurant,sidewalk seating,socialite
+72205	Craft 2,Fast-Casual,Mexican,Mexican Gumbo,burritos,guacamole,nachos,quesadillas,queso,tacos
+72207	kosher,steakhouse
+72267	amazing burgers,belgian fries,belgian frites,belgian potatoes,best meat,delicious,fancy soda,food truck,foodtruck,frat boy,frites,grass-fed,hamburger,mobile,moving target
+72593	burger,burgers,five guys,forest hills,french fries,fries,hamburger,hamburgers,kosher hot dog,kosher hot dogs,woodhaven blvd,zagat,zagat survey rated,zagat-rated
+72623	
+72714	coffee,coffee shop,douchebag,starbuck
+72945	douchebag
+73222	bakery,bravo,bravoandy,brooklyn,clinton hill,coffee,connecticut muffin,muffins,smoothies
+73254	american,fried chicken,late night food,marrow,no reservations,oysters,pu pu platter,raw bar
+73304	american,bar,pub food,sports
+73405	bon appetite,boroughs,chelsea market,lucky magazine,the green table - chelsea market,wsj lunch box,wsj urban adventurer
+73512	bensonhurst,classic,pizza
+73581	
+73848	
+73888	diner,greasy spoon
+74191	coffee,donuts
+74294	appetizers,calzones,catering,delivery,heros,italian,online ordering,pizza,salads,table reservations
+74407	diner,food,restaurant
+74450	coffee,donut shop,donuts and food,nyu
+74668	wings. beer. sports.
+74896	bar,burrata,chili oil,decor,mcnally,nate appleman,new lunch spots,nymag,pizza,timeoutny
+74923	
+75007	beer,cafe,coffee,coffee roaster,counter seating,espresso,hotel,kid friendly,latte art,library,meditation,salads,sandwich,table seating,wifi,wine
+75022	coffee,fresh brew,photo both,starbucks
+75029	pastries,starbucks
+75051	cupcake
+75206	
+75282	coffee,free wi-fi,mall,nhl store,starbucks,wi-fi,wifi
+75338	
+75371	froyo,frozen yogurt
+75509	
+75701	beer,burgers,fries,milkshakes,sauces,shakes,sliders
+75835	coffee,columbus circle,laptops,radioshack,starbucks,tourists,wi-fi
+75955	
+75985	babysitter,kid friendly,patio dining,rice balls,waterfall
+76162	diner,featured on diners, drive-ins and dives,food,zagat-rated
+76187	choice eats,pretzels
+76405	gallery,photo booth,photobooth,theater
+76554	burgers,healthy,malts,shakes
+76581	bravoandy,pizza,socialite
+76770	coffee,starbucks
+76901	
+77083	bagels,cafe,coffee,sandwiches
+77086	bread,cookies,donuts,pastry
+77199	
+77986	
+78005	
+78067	
+78081	
+78297	starbucks
+78422	breakfast,international house of pancakes,pancakes,restaurant
+78624	dollar slice
+78642	
+78902	all you can eat,all you can eat sushi,japanese,prix fixe,sushi,sushi, seafood, buffet, good service
+79077	photo booth,pizza,ski area
+79240	forest hills,latin food,ty ku
+79404	israeli, outdoors, quaint
+79541	starbucks
+79862	coffee,donut shop
+79880	coffee,tea
+79908	oysters,raw bar,seafood
+79919	breakfast,burgers,delivery,dinner,healthy,low calorie,lunch,salads,smoothies,wraps
+79997	coffee shop
+80350	
+80406	good food and friendly faces.
+80564	ackee,beef patty,caribbean food,jamaican food,jerk chicken,jerk food,krust,oxtail,patty
+80645	beer,biscuits,brunch,local,organic,seasonal,sustainable,wine
+80769	french, pie
+80844	pasta,pizza
+80866	asian fusion,bar,chicken adobo,dinner,filipino,ice cream,outdoor seating,purple,soju,terrace
+81096	
+81254	danny meyer,gramercy park hotel,hiphostessnyc top pick,restaurant,roman food
+81284	ask to meet carol the food runner,great sushi
+81357	brooklyn
+81383	burger joint
+81579	
+81616	chambers hotel,david chang,delivery,homemade soda,large format,midtown,momofuku,to go
+81695	breakfast,diner,dinner,food,lunch,restaurant,snacks
+81766	 gossip girl, playground, socialite,ambarrukmo plaza,andy cohen,beer,bravo,bread,dessert,douchebag,puma social hot spot,rockefeller,soup,top chef
+81771	amazing daily specials,fine dining
+81816	happy hour
+81976	italian
+81990	asian cuisine,asian, noodles, thai,byob,filipino,michael huynh,noodles,thai,vietnamese
+82051	churrasco,dominican,food,mofongo
+82254	bagels,coffee,donut shop,doughnuts
+82328	michelin,soup dumplings,soy milk,youtiao
+82419	
+82441	deli
+82634	great food,indian,naan
+82660	all-you-can-eat
+83038	sawse
+83182	brooklyn,italian,pizza
+83925	
+84006	applebees
+84088	bistro,brunch,nom,west african
+84091	bar,gayborhood,outdoor seating,restaurant,wine
+84145	brunch,french press,pancakes
+84368	
+84394	all you can eat,buffet,crepe,ice cream,japanese,sashimi,seafood,sushi,tempura
+84770	bowling alley,dog run,fried chicken,gallery,karaoke bar,play ground,record shop,ski area,vegetarian
+84891	
+84910	bakery,dessert,pichet ong
+84972	burger,chain,fast food,fries,park slope
+85008	diner
+85041	margaritas,mexican
+85302	japanese,kimchi,korean,sushi,tea,vegan,vegetarian
+85776	
+86029	burgers,hamburgers
+86041	social dining
+86116	2 michelin star,3 michelin stars,michelin star
+86160	
+86184	fruit,healthy,lirr,smoothie,smoothies,smoothy
+86250	coffee,wi-fi
+86269	 douchebag,coffee,coffee shop,socialite,starbucks
+95612	coffee,donut shop,donuts,kosher
+95645	 breakfast, catering, coffee, cookies, myfoodnow, online food ordering,bagel
+95744	japanese
+96499	coffee,cuisinart,java,lirr,penn station,starbucks,wifi
+96751	beer,burgers,chicken sandwiches,midtown lunch,milkshakes,rc cola, chocolate soda, ginger-ale,tofu,unlimited refills,vegeterian
+96914	burgers,hamburger,in-n-out,milk shake,shakes
+97287	best new drunk food in nyc,brunch,los mejores tacos de nyc,mexican,new place,tacos,trendy
+97705	mccaf®¶,open 24 hours
+97712	open 24 hours
+98332	coffee
+98465	jenga
+98472	greek,gyro souvlaki loukaniko,saganaki
+98607	bagels,wraps
+98624	classic,cocktails,fish and chips
+98639	coffee,starbucks
+98702	lunch,sandwiches,wraps
+98967	coffee,notlaptopfriendly,restaurant,stumptown,wifi
+99044	
+99369	chinese,malaysian,seafood,shrimp paste,thai,tofu
+99454	pizza
+99558	
+99804	
+99849	coffee,sandwiches,tea
+99891	bagel,breakfast,deli
+100422	bowling alley,brunch,dog run,fried chicken,gallery,karaoke bar,playn ground,record shop,ski area,vegetarian
+100704	andy cohen,baguette,bakery,belgian,bread,breakfast,brunch,cafe,coffee,cupcake,cupcakes,lunch,organic,pastries,retail,salads,vegan,vegetarian
+100986	
+101591	enlightenment,gluten-free options,vegan options
+101692	
+101792	pizza
+101967	chocolate,chocolate shop,desserts,organic fair trade,treats,truffles,vegan,wine,wine bar
+102017	mario batali
+102157	
+102278	burgers,food,tasty
+102886	
+103337	steak,steakhouse
+103535	great tuscan home cooking!,pasta
+104003	
+104512	brown rice,macrobiotic,restaurant,tempeh
+105023	breakfast,coffee,coffee shop,diner,diner, breakfast, eggs,dinner,extensive menu,lunch,take out
+105077	italian
+105349	bar,burgers,celebrity hotspot,cocktails,good blue cheese fries,happy hour,martinis,seafood,steakhouse,wine
+105699	coffee,yogurt parfait
+105839	brunch,diner,featured on diners, drive-ins and dives,pancakes
+106066	
+106165	beers,burgers,frat boys,no judgement zone,woo college!
+107254	
+107629	lake\/pond
+108307	awesome,diner,queens,restaurant,resteraunt,steak
+108345	bakery,breakfast,brunch,coffee,scones,tea
+108408	burrito,mole,wu tang
+108420	bravo,brooklyn,brooklyn lager,douchebag,gossip girl,pennant ale,pizza,socialite
+108536	cheap eats,curry,late night eats,spicy
+109070	american,bar,food,restaurant
+109326	
+109947	
+110119	bar,bryant park,celsius bar at bryant park,event space,ice skating,lounge,restaurant,winter
+110264	american,desserts,diner,food,meals,mexican,restaurant
+110328	diner,dog run,fried chicken,karaoke bar,play ground,record shop,ski area,sushi
+110404	chocolate,cream,desserts,ice,ice cream,icecream,just desserts,sorbet,sweets
+110517	
+110560	burgers,chicken nuggets,cookies,fries,shakes
+110941	coffee,chill,tea,trendy
+111035	
+111069	boylan soda,long line,organic,salad
+111595	 falafel, gluten-free, hummus,kosher
+112711	baguette,bakery,bread,breakfast,brunch,cafe,coffee,espresso,lunch,organic,pastries,retail,salads,vegan,vegetarian
+113625	breakfast,care,coffee
+114558	trendy
+114619	coffee shop,counter service
+114765	burritos,fajitas,fastfood,tacos,vegetarian
+115202	 izakaya, okonomiyaki, ramen, sake, shochu, sushi,japanese
+115446	new orleans style,po boys
+115522	bravo,pizza,pizzeria,zagat-rated
+115758	coffee
+116111	cookies,scones,tea
+116162	healthy cookies,pure food & wine,raw,shakes
+116307	pizza
+116509	
+116552	choice eats,cup cake,fusion,mexican,village voice,village voice choice eats,voicestreet,wine list
+117650	chicken parm,italian,lasagna,meatball parm
+118190	causa de pollo y cangrejo,ceviche,chupe de camarones,dinner,lomo saltado,peruvian chicken,pisco sour,wheelchair access
+119096	pizza
+119119	
+119212	soup dumplings
+119218	
+119265	bar,drinks,pizza
+119774	
+120475	chinese food,dumplings,late night,noodles
+120668	coffee
+120957	great burgers, awesomeness,zagat-rated
+121133	
+121264	best bagels
+121308	bento box,japanese,sushi
+121606	burger,diner,fries,milkshake,sandwiches,zagat-rated
+121898	coffee,starbucks
+122072	
+122354	
+122364	casual elegant,classic bar,seafood,steakhouse,steaks
+122632	
+122862	
+122882	bagels
+122980	bar,food
+123046	burgers,fries,grilled cheese,hi c,hot dogs,soda
+123278	cafe,coffee,cupcake,cupcakes,tea
+123294	family style,pasta,pizza
+123378	2 michelin stars,dining,michelin star
+123456	american,cheesecake factory,italian,mall,thai
+123649	bravo,zagat-rated
+123729	 acai, acai bowls, cooler cleanse, juice cleanse, kale, mangosteen, raw food, salads, sandwiches, smoothies, soups, vegan, vegetarian,juice
+123741	asiago bagel breakfast sandwiches,breakfast,coffee,cookies,cupcake,oatmeal,pastries,rock ctr,sandwiches
+124069	donut shop
+124164	pizza
+124204	
+124493	pizza
+124918	pasta,wine
+125612	brooklyn,cobble hill,court st,court street,douchebags
+125662	cafe,drink,eat,pizza,pizzaria,pizzeria,resto
+125718	campus cafetaria,italian,italian food,pizza,tea,wine
+125770	burgers,coleslaw,food,fries,hamburgers,milkshakes
+125941	
+125945	bakery,cakes,coffee,cupcake,cupcakes,tea,tlc summer
+126117	bbq,rodizio,zagat-rated
+126147	
+126154	food,resturant
+126509	yeah
+126911	brunch,pancakes
+127312	chili
+127362	arepa,cachapa,patacon
+127461	flushing,malaysian,restaurant
+127512	
+127849	
+128159	zagat,zagat-rated
+128204	brownies,cake,coffee,cup cake,cupcake,cupcakes,dessert,pastries,soda,sweets
+128537	
+128646	pizza
+129011	buttitos,chipotle mexican grill,food,mexican,tacos
+129142	charlie nuttall,donut shop,dunkin donuts,taco bell,things that shouldn't be!
+129237	pizza
+130406	chocolatesuicide pastry,cupcake,friedoreos,zeppoles
+130469	
+130571	japanese food,noodle soups,ramen
+130669	coffee shop,diner
+131001	breakfast,coffee,lunch,midtown,rockefeller plaza
+131078	
+131255	bravo,bravoandy,brooklyn,craft,sandwiches,tom collichio,top chef
+131291	
+131690	puma,thai
+131744	asian,cocktail bar,delete,mexcian fusion,thai food
+131948	douchebag,gossip girl,hiphostessnyc top pick,michelin star,new york magazine where to eat 2011 badge,nymag,socialite
+132016	catering,cheap eats,chicken parm hero,grandma slice,italian restauarant,pizza,pizza slice
+132338	best sandwiches in nyc,coffee
+132346	 breakfast, donuts, ice cream, sandwiches,coffee,donut shop
+132842	
+132953	best martinis,broadway show,business breakfast,business lunch,celebrities,couscous,crepes,french,french bistro,french brasserie,lunch,martini hours,post-theatre dinner,pre-theatre dinner,prix fixe lunch,theatre
+133203	
+133421	thrillist
+133700	appetizing,bagels,ues,upper east side
+133823	chinatown,curried lamb,hand-pulled noodles,noodle shop,recommended
+134576	east village,oyster bar,raw bar,tapas,wine
+134683	drinks,food,seasonal,soul,soulfood,southern
+135754	little italy,rated by zagat
+135890	1701,buffalo slice,pasta,pizza,pizzeria,takeout
+136335	breakfast,diner,dinner,dog run,fried chicken,karaoke bar,lunch,play ground,sushi,vegetarian
+136905	campus cafetaria,coffee,food
+136990	beignets,belgian fries,burgers,candy,chili dog,coffee,crepes,egg cream,french fries,fries,frozen yogurt,gelato,hot dogs,ice cream,ices,malts,milk shakes,sandwiches,sausage,shakes,soft serve,sundae
+137124	korean,tapas
+137737	
+138722	
+139036	
+139046	40s,50s,60s,dancing,hamburgers,milkshakes
+139117	american restaurants,american restaurants|carry out and take out|southwestern restaurants|bars and pubs,bars and pubs,carry out and take out,southwestern restaurants
+139421	
+139711	salad
+139866	
+140226	drink specials,harlem
+140325	
+140386	
+140479	zagat-rated
+140749	bakery,best bakery in the world,best coffee in brooklyn
+141142	coffee,coffee, restaurant, drive through,drive through,restaurant
+141168	
+141422	barista,bloomberg,cafe,coffee,starbucks,tea
+141868	fajitas, margaritas, ribs, tex mex, happy hour
+142298	
+142572	fast food,sliders
+142967	airport bar,beer,wings
+143190	
+143225	
+143744	70 yr old chinese ppl,dim sum,roast pork buns
+143783	coffee,latte
+143883	coffee,wifi
+143888	bar,happy hour,patio seating
+144058	
+144246	cali-mex,quesadillas,tacos
+144373	
+144561	
+144582	additive-free sandwiches,delivery,lunch,restaurant,salad,soup,wraps,yummy food
+144620	coffee,coffee, cappuccino,
+144773	sushi
+145078	chicken parm,italian,sandwich,soho
+145286	bagels,cupcakes,salads,sandwiches
+145607	great brick oven pizza
+145771	paella,spanish food
+145830	architecture,design
+146020	african cuisine,bakery,coffee
+146357	bakery,cafe,desert,pina coladas
+147002	steak,steakhouse
+148051	
+148156	douchebag
+148402	chelsea,restaurant
+148543	
+148562	brunch
+149139	
+149350	
+149512	
+149539	beer,breakfast,cocktails,coffee,diner,outdoor seating
+149541	
+149658	bacon,burgers,cash only,coat check,expensive,steak,valet parking
+150169	breakfast,food,sandwiches,stir-fry
+150436	
+151310	breakfast,coffee,donut shop,ice cream
+151325	
+151376	
+151381	batman,bergen blvd,diner,greenmount ave
+151956	breakfast,dutch baby,french toast,pancakes,private lot,syrup
+152096	
+152109	diner
+152402	clam sauce,italian,meatballs,restaurant
+153035	food cart,food truck,gyro,pizza
+154789	1st thursdays,act outside the box,actors,agents,bsmith.com,celebrity,first thursdays,former fashion model b. (barbara) smith,hip multi-ethnic clientele,lisa gold,models,nbc lifestyle television show b. smith with style,restaurant row,soul,theater crowd, business and entertainment executives, tourists
+155079	awesome margaritas,locals,mexican,ues
+155221	cajun,fashion district,fried chicken,manhattan
+155929	 aircraft, airplane, airplanes, airport, crunch gym, exercise, healthy, jfk, juice bar, organic, terminal, terminal 8, top chef, tourist, travel, vegan,american airlines
+156193	
+156362	
+156396	burgers,fast food,french fries,peanuts
+156402	coffee,flat bread,salad,sandwiches,soup
+156910	fancy,food art,french,friday parties,institution,new york institution,sirio,tasting menu,wine,wine pairing
+157043	
+157070	
+157160	desserts
+158279	asian,chinese,sushi
+158746	lufthansa eurovision song contest 2011
+158958	bakery,bread,breakfast,cafe,clean bathrooms,coffee,dinner,free wifi,knitting,lunch,salad,sandwich,soup
+159042	nymag,nyt,tasting menu with a smore ending, to die for
+159367	no soy sauce!
+159635	arepas,casual,drinks,eat,food,venezuelan
+160209	deli,sandwiches
+160273	coffee,espresso,frappuccino,starbucks,tea
+160446	
+161178	chino latino
+161404	
+161625	 acai, acai bowls, cooler cleanse, juice cleanse, kale, mangosteen, raw food, salads, sandwiches, smoothies, soups, vegan, vegetarian,juice
+161822	sushi
+162131	
+163313	
+164071	vegan,vegetarian
+164429	
+164722	
+164806	
+165050	pizza
+166305	italian,old school
+166334	hot dogs,texas wieners
+166526	abita brewing,baseball,bluepoint brewing,brooklyn brewery,craft beer,football,great burgers,great fries,great wings,knicks,liverpool,local,magic hat brewing,mets,new york breweries,rangers,rock & roll,southern tier brewing,yankees
+168590	24 hours,coffee,desserts,espresso,latte,oven-warmed food,starbucks,times square,wireless hotspot
+168672	coffee,latte,starbucks
+168809	cocktails, mexican food, vegan, allergy friendly food,comida,mexican,restaurant,zagat-rated
+169094	
+169196	beer, hot dogd, burgers, hamburgers, friess, fast food, bar, car shows, bike shows, salty bartenders
+170256	bakery,cupcake bakery,cupcakes,loius vuitton,lv insider
+170319	bronx,food,restaurant,thai
+170651	takeout
+170700	asian fusion,ayurvedic,taoist,thai,union square
+170835	
+170936	 playground,andy cohen,bravo,bravoandy,brooklyn,cupcakes,dessert,douchebag,food,foodie,frat boy,gossip girl,puma social hot spot,socialite,tlc cupcakes,top chef
+171348	
+171730	 seafood,big bar area,close to msg,hot bartenders,pasta,tiled room
+171959	
+171965	thai
+172514	breakfast,burgers,shakes
+172793	coffee,donut shop
+173414	coffee,espresso
+173702	coffee,douchebag,espresso,pastries,sandwich,slayer,soup
+174200	
+174371	arak,hummus
+174401	art,cafe,events,milk pie,pretentious
+175522	cakes,coffee,panini
+175670	diner,fake meat wizardry,fried chicken,karaoke bar,killer,soul cafe,sushi,vegan,vegetarian,vegetarians,veggies
+175685	salads,sandwiches,wraps
+175904	# park, # lake, # outdoor, # zen garden, # central park - hernshead, # douchebag, # douchebags, # outdoors, # parks, # ski area, # dog run, # dog park, # brooklyn,coffee,coffee shop,donut shop,donuts,lake,park
+176025	panini
+176425	coffee,cupcakes,desert,donuts,ice cream
+178998	
+179700	asian fusion,hibachi,sake lounge
+179947	thai
+181750	
+181971	greek,mediterranean,seafood
+182400	cafe,coffee,espresso,french,patisserie,sandwiches
+182731	
+182904	brooklyn,coffee,douchebags,frap,latte,starbucks,whip
+183415	fancy tavern,irish music,walk from glen ridge njt
+183663	 brunch, flan, steak,uruguay
+183825	
+183876	dinner,foods,gossip girls,restaurant
+184106	pizza
+184151	
+184152	restaurant
+184240	banquet hall,bar,buffett,fine dining,lobster buffet,weddings
+185348	breakfast,restaurant
+186132	cheapism,cheapskate,falafel,hummus,hummus ny,israeli,kosher
+186570	great mexican food,happy hour,tacos
+186707	good bar,great food,tom colicchio
+186895	burritos,mexican,quesadillas,tacos,tortas
+187429	pizza
+188874	bakery,cappuccino,coffee,cookies,cupcake,dessert,espresso,hot chocolate,just dessert,just desserts,latte,macarons,yummy
+189338	
+189445	
+189579	australian,brunch,mimosas
+190040	Bloomin' Onion,Outback,Restaurant,Steakhouse,zagat-rated
+192063	thai
+192332	
+194112	
+196770	
+201390	bbq, butcher, fried chicken
+201833	
+205034	bbq
+205125	kosher,kosher-dairy
+210037	coffee java nyc ny starbucks,starbucks
+211757	
+211835	fried chicken
+212695	
+213006	
+219333	
+219928	cookies,muffins
+227730	coffee,deli
+227824	coffee,people watching
+228590	a-list,nobu next door,rude waiter carl krebs
+228751	
+232087	
+232843	cafe
+240418	donut shop
+241410	
+242095	
+246900	pizza
+252819	
+261467	
+263400	coffee,tea
+264256	
+264922	
+265126	
+265356	1127,boca
+270675	chicken,food
+273646	
+273664	
+276983	
+279996	
+295730	bar,pub,restaurant
+301672	bar,happy hour,italian,restaurant
+304541	breakfast,brinner,pancakes,waffles
+304860	breakfast diner
+318423	lunch
+321023	big mac,burgers,fries,mcnuggets,not at this location,shakes,soda
+327423	beans,chicken,park slope,peruvian,rice
+352649	pizza
+353788	
+355036	
+356655	
+362048	
+362400	bravo,brooklyn,crust,gossip girl,italian,meatballs,people,pizza,socialite
+362433	
+368125	coffee,donut shop,donuts,dunkin
+375566	
+376429	coffee,food,paninis,pastries,pastry,snacks,tea
+381653	burek
+382624	delivery,take out
+384084	
+386276	
+386324	bistro,foie gras,french,nolita,tartines,wine
+388791	beer  ice cream milk cigarettes
+389686	
+393205	
+393798	24 hours,buck double,burgers,chicken fries,chicken sandwich,company owned,fast food,fries,shakes,soda,whopper,whopper jr.
+394629	
+395407	
+399651	
+407167	brunch
+416810	donut shop
+426787	
+429885	
+435580	
+437038	
+440820	bomboloni,must try the chestnut bomboloni hot....orgasmic...i think i need a tissue
+442330	
+445946	
+460397	
+482939	
+484855	
+485208	
+488709	
+494626	burgers and fries,convenient,kid food,park,zoo
+494736	
+497774	
+498205	kosher,vegetarian
+499843	
+502393	sandwiches
+512230	
+520193	concert halls,donut shop,frat boys
+520715	
+526583	
+557641	
+558276	donut shop
+559421	
+560405	
+564216	
+569034	
+570335	
+579714	food,spring roll
+583710	
+588262	hibachi,hibatchi,restruant
+590459	
+600733	
+621637	
+624655	happy hour
+625180	
+640114	
+644486	
+654328	pizza
+655358	manhattan views,outdoor seating,restaurant,waterfront seating,zagat-rated
+663741	
+667293	
+681818	
+682880	
+692538	
+694221	donut shop
+695248	
+704396	
+725093	
+726679	
+726712	
+727934	
+738080	
+740054	
+770738	
+788264	
+804605	
+804646	
+808115	
+811401	 beer, nachos, ribs, shakes, wings,burgers
+831221	
+853781	
+868841	
+885559	beer,dogfish head,raw bar,sixpoint,wine
+915276	
+915338	
+927811	
+933944	
+955029	
+958989	
+995935	
+1001525	cafe,coffee,creperie,crepes,cr®∫perie,cr®∫pes,dessert shop
+1006288	brunch,wine bar,wine bar nyc,wine bars nyc,wine tasting-plates,wine, organic wine, mediterranean food, beer, desserts, good music and ambiance
+1020676	
+1037904	
+1040758	
+1043670	
+1055357	
+1094878	
+1121742	donut shop
+1170409	
+1184161	douchbag,douchebag,pizza,socialite
+1204072	donut shop
+1210157	
+1225401	european cafe
+1261720	
+1283376	sushi bar
+1285202	asian,food,vegan,vegetarian
+1337942	
+1377000	home
+1388343	
+1416753	
+1419324	
+1443163	
+1446569	
+1450342	
+1495301	
+1524037	 breakfast, dinner, lunch,jamaican resturant,restaurant
+1537683	
+1598475	
+1649796	
+1654176	dumplings
+1684997	
+1719875	
+1742184	
+1760748	
+1782104	grilled cheese,sandwiches
+1809216	donut shop
+1809239	donut shop
+1809245	
+1925765	
+1930697	
+1930899	
+1930905	
+1932723	
+1932979	
+1932980	
+1944209	
+1945122	neapolitan pizza bar,pizza
+1948043	
+1995366	
+2000031	
+2019407	
+2022669	
+2053266	
+2067414	
+2088246	
+2133943	
+2154515	banquet,beer,brunch,dinner specials,dj,happy hour,karaoke,lunch,music,organic,party,russian cuisine,vegetarian,vodka,wine,wine tasting
+2167106	
+2232344	
+2302016	11\/11\/11,fries,happy,mcdonald's,world famous fries
+2358357	
+2376156	
+2422200	brunch,pastry,sandwiches
