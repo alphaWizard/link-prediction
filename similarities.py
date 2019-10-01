@@ -6,12 +6,12 @@ from collections import defaultdict
 # from igraph import *
 
 
-def apply(graph, func):
-    non_edges = nx.non_edges(graph)
+def apply(graph, func, non_edges):
+    # non_edges = nx.non_edges(graph)
     return ((u, v, func(u, v)) for u, v in non_edges)
 
 def CN_score(graph,u,v):
-        return len(list(w for w in graph[u] if w in graph[v] and w not in (u, v)))
+    return len(list(w for w in graph[u] if w in graph[v] and w not in (u, v)))
 
 def common_neighbors_score(graph): 
     non_edges = nx.non_edges(graph)
@@ -22,7 +22,7 @@ def common_neighbors_score(graph):
 
 
 def AA_score(graph, u, v):
-        return sum(1 / math.log(graph.degree(w))for w in nx.common_neighbors(graph, u, v))
+    return sum(1 / math.log(graph.degree(w))for w in nx.common_neighbors(graph, u, v))
 
 def adamic_adar_score(graph):
     non_edges = nx.non_edges(graph)
@@ -41,21 +41,21 @@ def preferential_attachment_score(graph):
 
 
 def RA_score(graph, u, v):
-        return sum(1 / graph.degree(w) for w in nx.common_neighbors(graph, u, v))
+    return sum(1 / graph.degree(w) for w in nx.common_neighbors(graph, u, v))
 
 def resource_allocation_score(graph):
     non_edges = nx.non_edges(graph)
     def score(u, v):
         return sum(1 / graph.degree(w) for w in nx.common_neighbors(graph, u, v))
-    return apply(graph, score) 
+    return apply(graph, score,non_edges) 
 
 
 def JC_score(graph, u, v):
-        union_size = len(set(graph[u]) | set(graph[v]))
-        if union_size == 0:
-            return 0
-        else:
-            return len(list(nx.common_neighbors(graph, u, v))) / union_size
+    union_size = len(set(graph[u]) | set(graph[v]))
+    if union_size == 0:
+        return 0
+    else:
+        return len(list(nx.common_neighbors(graph, u, v))) / union_size
 
 def jaccard_coefficient_score(graph):
     non_edges = nx.non_edges(graph)
@@ -66,7 +66,7 @@ def jaccard_coefficient_score(graph):
         else:
             return len(list(nx.common_neighbors(graph, u, v))) / union_size
 
-    return apply(graph,score)    
+    return apply(graph,score,non_edges)    
 
 
 def friends_measure(graph, u, v):  #heuristic for katz
@@ -78,6 +78,15 @@ def friends_measure(graph, u, v):  #heuristic for katz
             elif graph.has_edge(x,y):
                 score = score + 1
     return score
+
+
+def rpr_matrix(graph, alpha=0.85):
+    D = graph.to_directed()
+    H = nx.stochastic_graph(D)
+    H = nx.to_numpy_matrix(H).transpose()
+    I = np.eye(H.shape[0])
+    S = alpha*np.linalg.inv(I - (1-alpha)*H)
+    return S
 
 
 def katz_score(graph,beta=0.004):
@@ -157,7 +166,7 @@ def list_rpr_scores(G, k=None, alpha=0.85):  # updated
     def score(u,v):
         return rpr_values[(u,v)] + rpr_values[(v,u)]
     
-    return apply(G,score)
+    return apply(G,score,non_edges)
 
 
 def katz_dict(G, beta = 0.001, max_power=5):
@@ -186,7 +195,7 @@ def list_katz_scores(G, beta=0.001, max_power=5):  #updated for limited path len
     def score(u,v):
         return katz_values[(u,v)] + katz_values[(v,u)]
 
-    return apply(G,score)
+    return apply(G,score,non_edges)
 
 
 
